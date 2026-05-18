@@ -1,0 +1,1708 @@
+{
+  "version": 1,
+  "updateUrl": "",
+  "problems": [
+    {
+      "id": "shoe",
+      "title": "白色鞋子怎么刷",
+      "subtitle": "一步步教你让小白鞋焕然一新",
+      "heroImage": "/static/images/hero/card-shoe.svg",
+      "keywords": [
+        "baise",
+        "xiezi",
+        "shua",
+        "baisexiezi",
+        "xie",
+        "鞋子",
+        "白色",
+        "小白鞋",
+        "刷鞋",
+        "洗鞋",
+        "白鞋"
+      ]
+    },
+    {
+      "id": "keyboard",
+      "title": "笔记本键盘缝隙脏了怎么深度清洁",
+      "subtitle": "键盘死角彻底清理，还原出厂手感",
+      "heroImage": "/static/images/hero/card-keyboard.svg",
+      "keywords": [
+        "bijiben",
+        "jianpan",
+        "qingjie",
+        "bijibenjianpan",
+        "jp",
+        "bj",
+        "键盘",
+        "笔记本",
+        "清洁",
+        "清理",
+        "电脑",
+        "灰尘"
+      ]
+    },
+    {
+      "id": "wardrobe",
+      "title": "衣柜发霉长毛怎么处理",
+      "subtitle": "告别霉味，还衣柜清新干燥",
+      "heroImage": "/static/images/hero/card-wardrobe.svg",
+      "keywords": [
+        "yigui",
+        "famei",
+        "chuli",
+        "yiguifamei",
+        "yg",
+        "fm",
+        "衣柜",
+        "发霉",
+        "霉",
+        "长毛",
+        "除霉",
+        "防潮",
+        "潮湿"
+      ]
+    },
+    {
+      "id": "stain",
+      "title": "衣服沾到油渍口红怎么清洗",
+      "subtitle": "急救去渍，不留痕迹",
+      "heroImage": "/static/images/hero/card-stain.svg",
+      "keywords": [
+        "yifu",
+        "youzi",
+        "kouhong",
+        "qingxi",
+        "yifuyouzi",
+        "yf",
+        "yz",
+        "kh",
+        "衣服",
+        "油渍",
+        "口红",
+        "清洗",
+        "去渍",
+        "污渍",
+        "洗衣服"
+      ]
+    },
+    {
+      "id": "lint",
+      "title": "衣服起球怎么去掉",
+      "subtitle": "三步搞定毛球，旧衣秒变新衣",
+      "heroImage": "/static/images/hero/card-lint.svg",
+      "keywords": [
+        "yi fu",
+        "qi qiu",
+        "mao qiu",
+        "衣服",
+        "起球",
+        "毛球",
+        "去毛球",
+        "修剪",
+        "起毛",
+        "毛呢"
+      ]
+    },
+    {
+      "id": "glasses",
+      "title": "眼镜沾灰容易花怎么办",
+      "subtitle": "不用衣角擦，正确清洁延长镜片寿命",
+      "heroImage": "/static/images/hero/card-glasses.svg",
+      "keywords": [
+        "yan jing",
+        "hui chen",
+        "jing pian",
+        "眼镜",
+        "灰尘",
+        "镜片",
+        "清洁",
+        "擦眼镜",
+        "花",
+        "模糊"
+      ]
+    },
+    {
+      "id": "teacup",
+      "title": "杯子茶垢怎么快速洗掉",
+      "subtitle": "不用钢丝球，厨房两样东西30秒搞定",
+      "heroImage": "/static/images/hero/card-teacup.svg",
+      "keywords": [
+        "bei zi",
+        "cha gou",
+        "qing xi",
+        "杯子",
+        "茶垢",
+        "茶渍",
+        "清洗",
+        "茶杯",
+        "水杯",
+        "咖啡渍"
+      ]
+    },
+    {
+      "id": "socks",
+      "title": "袜子洗完发硬怎么改善",
+      "subtitle": "不用柔顺剂，两招让袜子恢复蓬松柔软",
+      "heroImage": "/static/images/hero/card-socks.svg",
+      "keywords": [
+        "wa zi",
+        "fa ying",
+        "rou shun",
+        "袜子",
+        "发硬",
+        "硬化",
+        "柔软",
+        "柔顺",
+        "洗袜子",
+        "硬邦邦"
+      ]
+    },
+    {
+      "id": "hair",
+      "title": "头发容易油，天天洗好不好",
+      "subtitle": "搞懂出油原因，找到正确的洗护节奏",
+      "heroImage": "/static/images/hero/card-hair.svg",
+      "keywords": [
+        "tou fa",
+        "you",
+        "xi tou",
+        "头发",
+        "油",
+        "洗头",
+        "出油",
+        "油头",
+        "控油",
+        "天天洗"
+      ]
+    },
+    {
+      "id": "moisture",
+      "title": "衣柜潮湿发霉怎么防潮",
+      "subtitle": "不靠除湿机，低成本保持衣柜全年干爽",
+      "heroImage": "/static/images/hero/card-moisture.svg",
+      "keywords": [
+        "yi gui",
+        "chao shi",
+        "fang chao",
+        "衣柜",
+        "潮湿",
+        "防潮",
+        "除湿",
+        "干燥",
+        "回南天",
+        "梅雨"
+      ]
+    },
+    {
+      "id": "mosquito",
+      "title": "蚊子总咬同一个人怎么回事",
+      "subtitle": "了解原因+科学防蚊，不再被独宠",
+      "heroImage": "/static/images/hero/card-mosquito.svg",
+      "keywords": [
+        "wen zi",
+        "ding yao",
+        "fang wen",
+        "蚊子",
+        "叮咬",
+        "防蚊",
+        "驱蚊",
+        "止痒",
+        "招蚊子"
+      ]
+    },
+    {
+      "id": "leftovers",
+      "title": "剩饭常温放多久会变质",
+      "subtitle": "记住黄金2小时法则，避免吃坏肚子",
+      "heroImage": "/static/images/hero/card-leftovers.svg",
+      "keywords": [
+        "sheng fan",
+        "bian zhi",
+        "bao cun",
+        "剩饭",
+        "剩菜",
+        "变质",
+        "保存",
+        "冰箱",
+        "隔夜",
+        "加热"
+      ]
+    },
+    {
+      "id": "hoodie",
+      "title": "卫衣洗后变形变长怎么恢复",
+      "subtitle": "三步拯救变形的卫衣，恢复原本版型",
+      "heroImage": "/static/images/hero/card-hoodie.svg",
+      "keywords": [
+        "wei yi",
+        "bian xing",
+        "hui fu",
+        "卫衣",
+        "变形",
+        "恢复",
+        "变长",
+        "缩水",
+        "洗变形",
+        "毛衣"
+      ]
+    },
+    {
+      "id": "toilet",
+      "title": "厕所异味散不掉怎么除味",
+      "subtitle": "不用香薰不用香水，天然方法彻底除味",
+      "heroImage": "/static/images/hero/card-toilet.svg",
+      "keywords": [
+        "ce suo",
+        "yi wei",
+        "chu wei",
+        "厕所",
+        "卫生间",
+        "异味",
+        "臭味",
+        "除味",
+        "除臭",
+        "地漏"
+      ]
+    },
+    {
+      "id": "bags",
+      "title": "塑料袋怎么收纳更方便",
+      "subtitle": "不用团成球，三种方法让塑料袋整整齐齐",
+      "heroImage": "/static/images/hero/card-bags.svg",
+      "keywords": [
+        "su liao dai",
+        "shou na",
+        "zheng li",
+        "塑料袋",
+        "收纳",
+        "整理",
+        "袋子",
+        "折叠",
+        "购物袋"
+      ]
+    },
+    {
+      "id": "orange",
+      "title": "橘子吃多了为什么容易上火",
+      "subtitle": "了解上火的真相+吃不难受的方法",
+      "heroImage": "/static/images/hero/card-orange.svg",
+      "keywords": [
+        "ju zi",
+        "shang huo",
+        "shui guo",
+        "橘子",
+        "上火",
+        "水果",
+        "喉咙",
+        "口腔",
+        "溃疡",
+        "柑橘"
+      ]
+    },
+    {
+      "id": "charge",
+      "title": "手机边充电边玩安不安全",
+      "subtitle": "搞清楚真正有风险的情况，放心用手机",
+      "heroImage": "/static/images/hero/card-charge.svg",
+      "keywords": [
+        "shou ji",
+        "chong dian",
+        "an quan",
+        "手机",
+        "充电",
+        "安全",
+        "电池",
+        "充电器",
+        "边充边玩"
+      ]
+    },
+    {
+      "id": "floor",
+      "title": "地板拖完总有水印怎么拖才干净",
+      "subtitle": "换对工具和方法，地板一拖即亮无水痕",
+      "heroImage": "/static/images/hero/card-floor.svg",
+      "keywords": [
+        "di ban",
+        "tuo di",
+        "shui yin",
+        "地板",
+        "拖地",
+        "水印",
+        "水痕",
+        "瓷砖",
+        "木地板",
+        "清洁"
+      ]
+    },
+    {
+      "id": "snacks",
+      "title": "拆封零食怎么保存不回潮",
+      "subtitle": "不用封口机，家常方法让零食始终保持酥脆",
+      "heroImage": "/static/images/hero/card-snacks.svg",
+      "keywords": [
+        "ling shi",
+        "hui chao",
+        "bao cun",
+        "零食",
+        "回潮",
+        "保存",
+        "受潮",
+        "密封",
+        "薯片",
+        "饼干"
+      ]
+    }
+  ],
+  "guides": {
+    "bags": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "塑料袋怎么收纳更方便",
+        "guideSubtitle": "三种折叠法，让塑料袋整整齐齐不占地方"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-bags.svg",
+        "altText": "整齐收纳的塑料袋"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "折三角法",
+          "description": "把塑料袋摊平挤出空气，对折两次变成长条。从底部开始折一个小三角，反复向另一边翻折直到袋口，最后把袋口塞进三角缝隙。折完只有扑克牌大小，抽屉里能放几十个，要用时一拉就散开。",
+          "image": "",
+          "tip": "每个袋子折前先抖掉里面的碎屑和水珠",
+          "duration": "每个约15秒"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "抽取盒法",
+          "description": "找一个纸巾盒大小的纸盒（鞋盒、快递盒都行）。把塑料袋一个接一个叠放：每个袋子的提手露外面，下一个袋子的底部压在上一个袋子中间。像抽纸巾一样，抽出一个带出下一个的提手。放厨房水池下面随用随抽。",
+          "image": "",
+          "tip": "不需要买收纳盒，鞋盒和快递盒改造就行",
+          "duration": "一次性整理5分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "定量控制",
+          "description": "袋子分三类：干净厚实的留用当购物袋、薄的直接套垃圾桶、密封袋单独放。购物袋最多留20个，多了扔掉。塑料袋永远用不完、永远会有新的进来，不定量就会越囤越多。",
+          "image": "",
+          "tip": "袋子叠放时统一口朝一个方向，一眼能认出大小",
+          "duration": "日常维护"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "charge": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "手机边充电边玩安不安全",
+        "guideSubtitle": "避开真正的风险，放心用手机"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-charge.svg",
+        "altText": "安全充电的手机"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "选对充电装备",
+          "description": "用原装或3C认证品牌的充电器和数据线，别买几块钱的杂牌。劣质充电器可能漏电或短路。数据线破损了立刻换。充电口有水别充电，先擦干再插。",
+          "image": "",
+          "tip": "一条破损的数据线比边充边玩危险十倍",
+          "duration": ""
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "控制发热",
+          "description": "边充边玩最怕的不是伤电池，是高温。手机发烫（超过45°C，摸起来明显烫手）就拔掉充电器等降温。充电时取下保护壳散热更好。不要在床上充电时把手机塞枕头下。快充时手机更热，尽量不重度使用。",
+          "image": "",
+          "tip": "充电时手机放硬桌面上比放床上散热好得多",
+          "duration": ""
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "养成好习惯",
+          "description": "电量20%-80%之间使用最理想，不需要每次都充满100%或用到底。边充边刷消息没问题，边充边玩大型游戏或看视频尽量少做。闻到焦味、看到电池鼓包立刻停用并送修。",
+          "image": "",
+          "tip": "用原装充电器正常边充边用是安全的，不用太焦虑",
+          "duration": "日常习惯"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "floor": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "地板拖完总有水印怎么拖才干净",
+        "guideSubtitle": "换对方法和工具，一拖即亮无水痕"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-floor.svg",
+        "altText": "干净无痕的地板"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "先干扫再湿拖",
+          "description": "用扫帚或吸尘器先把地面头发和灰尘清掉。干垃圾先清理，否则拖地只是把灰和成泥。拖把浸湿后手拧到不滴水——按在地上不留水痕才是合适的湿度。",
+          "image": "",
+          "tip": "拖把太湿是水印的第一大原因，拧干比用力拖更重要",
+          "duration": "每次拖地前"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "倒退着拖",
+          "description": "从房间最里面向门口倒退着拖，不会踩到刚拖过的地方。每拖完约10平米就涮一次拖把换水。脏水拖地必然全是水印。两桶水法更好：一桶洗拖把，一桶清水过拖把。",
+          "image": "",
+          "tip": "倒退拖地是保洁阿姨的通用手法，不踩刚拖过的地",
+          "duration": "每次拖地"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "水里加白醋或柔顺剂",
+          "description": "拖木地板：一桶水加小半杯白醋，去味去水垢。拖瓷砖：加一小盖衣物柔顺剂，抗静电减少灰尘再附着，拖完更耐脏。拖完用干拖布或微湿抹布再走一遍，立刻锃亮。加柔顺剂不要多，多了地面滑。",
+          "image": "",
+          "tip": "柔顺剂拖瓷砖比任何地板清洁剂都好用，还不贵",
+          "duration": "每次拖地"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "glasses": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "眼镜沾灰容易花怎么办",
+        "guideSubtitle": "不用衣角擦，正确清洁延长镜片寿命"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-glasses.svg",
+        "altText": "干净的眼镜"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "水冲掉灰尘",
+          "description": "先用流动的常温水把镜片两面冲一遍。镜片表面有细小灰尘，干擦等于用砂纸打磨镜片，越擦越花。不要用热水，会损伤镜片镀膜。",
+          "image": "",
+          "tip": "冬天水温调至微凉，镜片最怕骤冷骤热",
+          "duration": "10秒"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "洗洁精去油膜",
+          "description": "挤一滴中性洗洁精在指尖，揉出泡沫后均匀涂抹镜片两面和鼻托。轻轻打圈揉搓10秒。镜片上的油膜和指纹只有洗洁精能彻底溶解，洗手液和肥皂含添加剂会留膜。",
+          "image": "",
+          "tip": "不要用带磨砂颗粒的洗洁精",
+          "duration": "30秒"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "镜布吸干",
+          "description": "用水把泡沫彻底冲净，镜片上应是均匀水膜而不是水珠。用专用镜布轻轻按压吸走水珠，不要来回擦。镜布每周用洗洁精洗一次，否则布上积的油污会重新抹到镜片上。",
+          "image": "",
+          "tip": "没有镜布就用干净的面巾纸按压吸干，别擦",
+          "duration": "30秒"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "hair": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "头发容易油，天天洗好不好",
+        "guideSubtitle": "找到正确的洗护节奏，告别大油头"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-hair.svg",
+        "altText": "清爽蓬松的头发"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "降低洗头频率",
+          "description": "天天洗会洗掉头皮保护性油脂，头皮反而分泌更多油。大油头隔一天洗一次，普通偏油隔两天洗一次。过渡期觉得油，用清水冲一下或干发喷雾临时吸油。坚持2-3周头皮会适应。",
+          "image": "",
+          "tip": "干发喷雾可以临时救急，比天天洗好",
+          "duration": "适应期2-3周"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "洗发水只涂头皮",
+          "description": "洗发水挤手心搓出泡沫后再上头，只涂头皮和发根，发尾用泡沫带过就够了。用指腹按摩头皮，不要用指甲抓。冲水冲到头发摸起来涩涩的才算冲干净。",
+          "image": "",
+          "tip": "护发素只涂发中和发尾，碰到头皮会加重出油",
+          "duration": "每次洗头"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "hoodie": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "卫衣洗后变形变长怎么恢复",
+        "guideSubtitle": "三步拯救变形的卫衣，恢复原本版型"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-hoodie.svg",
+        "altText": "恢复版型的卫衣"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "护发素温水浸泡",
+          "description": "盆中放30°C温水（微温不烫手），加一勺护发素搅匀。把变形的卫衣放进去浸泡20分钟。护发素能润滑纤维，让被拉伸的棉纤维松弛回弹。取出后用手按压排水，不要拧绞。",
+          "image": "",
+          "tip": "护发素比柔顺剂效果好，它就是给纤维用的润滑剂",
+          "duration": "20分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "平铺定型晾干",
+          "description": "准备干浴巾铺桌面。把卫衣平铺在浴巾上，用手将下摆、袖口和领口推回合适尺寸。连同浴巾卷起来按压吸走多余水分，换一条干浴巾重新平铺，保持定型状态自然晾干。晾到半干时再整理一次尺寸。",
+          "image": "",
+          "tip": "卫衣、毛衣只能平铺晾，挂晾必变形",
+          "duration": "自然晾干"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "以后这样洗",
+          "description": "卫衣翻面洗减少正面摩擦。选轻柔或手洗模式，脱水转速调到最低。装进洗衣袋再放洗衣机。买一个平铺晾衣网（十几块钱），卫衣毛衣永远平铺晾，绝不用衣架挂。",
+          "image": "",
+          "tip": "两个晾衣网叠起来承重更好，衣服更平整",
+          "duration": "日常操作"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "keyboard": {
+      "meta": {
+        "lastUpdated": "2026-05-17",
+        "guideTitle": "笔记本键盘缝隙脏了怎么深度清洁",
+        "guideSubtitle": "键盘死角彻底清理，还原出厂手感"
+      },
+      "hero": {
+        "image": "/static/images/hero/keyboard-cleaning.svg",
+        "altText": "干净的笔记本电脑键盘"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "准备工具",
+          "description": "准备键盘清理软胶、精密清灰毛刷、75%酒精棉片、压缩空气除尘罐、超细纤维布。所有工具在推荐商品区可一键购买。",
+          "image": "",
+          "tip": "不要用湿抹布直接擦键盘，水滴渗入可能导致短路",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "断电预处理",
+          "description": "笔记本务必先关机断电，拔掉电源适配器。如果是外接键盘，拔掉USB连接线。将键盘翻转，轻轻拍打背面，让大颗粒碎屑自然掉落。",
+          "image": "",
+          "tip": "可拆卸键帽的键盘，建议拍照记录键位后再拆",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "清理浮灰与碎屑",
+          "description": "用压缩空气除尘罐对准键帽缝隙，倾斜45度角短促喷射，将浮灰和细小碎屑吹出。然后用键盘清理软胶在键帽表面滚动按压，粘走残留灰尘和毛发。",
+          "image": "",
+          "tip": "压缩空气罐使用时保持罐身竖直，避免液态气体喷出",
+          "duration": "5-8分钟"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "顽固残留清理",
+          "description": "用精密清灰毛刷蘸取少量75%酒精（棉片挤出的酒精即可），顺着键帽缝隙轻轻刷洗，重点清理常用按键周围（空格键、回车键附近最容易脏）。遇到顽固污渍可反复轻刷。",
+          "image": "",
+          "tip": "酒精要挤在棉片或刷子上，不要直接喷洒到键盘上",
+          "duration": "5-8分钟"
+        },
+        {
+          "id": "step-5",
+          "stepNumber": 5,
+          "title": "晾干收尾",
+          "description": "用干燥的超细纤维布擦拭键盘表面，吸走残留水分。将笔记本静置通风处晾干10-15分钟，确保酒精完全挥发后再开机使用。",
+          "image": "",
+          "tip": "用键盘膜可以减少日后清洁频率",
+          "duration": "15分钟"
+        }
+      ],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "键盘清理软胶",
+          "description": "可反复使用，粘走缝隙灰尘和毛发",
+          "price": 9.9,
+          "image": "/static/images/products/keyboard-gel.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=o6lwyDrzRY"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "精密清灰毛刷",
+          "description": "细软刷毛，不伤键帽涂层",
+          "price": 6.9,
+          "image": "/static/images/products/precision-brush.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=pSb3eHzsPH"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-3",
+          "name": "75%酒精棉片",
+          "description": "独立包装50片，消毒去油一步到位",
+          "price": 8.9,
+          "image": "/static/images/products/alcohol-wipes.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=r8IkH7av0c"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-4",
+          "name": "压缩空气除尘罐",
+          "description": "强力喷射，吹走键盘深层灰尘",
+          "price": 19.9,
+          "image": "/static/images/products/air-duster.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=OxkhytCilq"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        }
+      ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "leftovers": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "剩饭常温放多久会变质",
+        "guideSubtitle": "记住黄金时间线，科学保存安心吃"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-leftovers.svg",
+        "altText": "正确保存的剩饭"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "牢记安全时间",
+          "description": "熟食常温超过2小时细菌大量繁殖。室温超过32°C时缩短为1小时。米饭尤其危险——常温4小时后可能产生毒素，重新加热也杀不死。闻着没馊不等于安全。",
+          "image": "",
+          "tip": "剩菜安全口诀：热不过2，冷不过4（小时）",
+          "duration": ""
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "趁热分装进冰箱",
+          "description": "知道吃不完就别等全吃完再收拾。用干净筷子把要剩的拨到保鲜盒里，盖好直接进冰箱。热菜进冰箱不会损坏冰箱，等到凉了才放反而给了细菌繁殖时间。分装成小份，吃一份热一份。",
+          "image": "",
+          "tip": "不要用吃过的筷子分装，唾液细菌会加速变质",
+          "duration": "饭后立刻"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "冰箱不超过3天",
+          "description": "冷藏最多放3天。海鲜和豆制品变质最快，尽量当天吃完。米饭面条最多2天。冷冻可以放1-3个月。用标签在盒上写日期，不会忘记是哪天的。",
+          "image": "",
+          "tip": "保鲜盒上贴个美纹纸标签写日期，忘不了",
+          "duration": "3天内吃完"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "彻底加热再吃",
+          "description": "从冰箱取出后加热到整盘菜滚烫冒气。微波炉加热中途搅拌一下或翻面，受热更均匀。只加热要吃的量，剩下的继续冷藏。任何剩菜只加热一次，不要反复热。",
+          "image": "",
+          "tip": "微波加热时盖个盖子，减少水分流失口感更好",
+          "duration": "每次吃之前"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "lint": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "衣服起球怎么去掉",
+        "guideSubtitle": "三步搞定毛球，旧衣秒变新衣"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-lint.svg",
+        "altText": "去除毛球的衣服"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "修剪毛球",
+          "description": "用毛球修剪器在衣服表面轻轻推过。先处理袖口、腋下、胸前等毛球密集区。顺着织物纹理单向推，不要来回刮同一块地方。没有修剪器可用一次性剃须刀代替，力度要更轻。",
+          "image": "",
+          "tip": "电动修剪器比手动快3倍，几十块一个能用好几年",
+          "duration": "3-5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "粘走碎毛",
+          "description": "修剪后表面会有断裂的毛絮。用宽透明胶带或粘毛滚筒在衣服上按压再撕下，把碎毛全部粘走。重复2-3遍直到没有明显毛絮残留。",
+          "image": "",
+          "tip": "封箱胶带粘性太强，用普通透明胶带就行",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "翻面洗涤防复发",
+          "description": "以后洗这件衣服时把衣服翻过来（里面朝外）再放进洗衣机。选轻柔模式，装进洗衣袋。不要和牛仔裤、毛巾等粗糙面料混洗。晾晒也保持翻面。",
+          "image": "",
+          "tip": "所有容易起球的衣服都翻面洗，起球速度慢一大半",
+          "duration": "日常操作"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "moisture": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "衣柜潮湿发霉怎么防潮",
+        "guideSubtitle": "不靠除湿机，低成本保持衣柜全年干爽"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-moisture.svg",
+        "altText": "干爽整洁的衣柜"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "隔绝墙壁湿气",
+          "description": "衣柜背板靠墙最容易从墙体吸潮。在背板和墙壁之间贴一层防潮垫或铝箔纸隔绝。衣柜与墙之间至少留2cm缝隙通风。贴一张干纸巾在背板处半天测试，如果纸变潮说明这个地方进湿气。",
+          "image": "",
+          "tip": "防潮垫几块钱一卷，比事后除霉省事得多",
+          "duration": "10分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "自制干燥盒",
+          "description": "找一个小塑料盒，底部铺3厘米厚氯化钙颗粒（网上几块钱一公斤）。盒盖扎几个小孔，放衣柜角落。每月倒掉积水更换一次，一个衣柜放1-2盒。盒底垫一张厨房纸，倒水时整张兜走不脏手。",
+          "image": "",
+          "tip": "氯化钙吸湿量是硅胶干燥剂的5倍，买颗粒最划算",
+          "duration": "每月维护1次"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "衣物不要塞满",
+          "description": "衣柜塞到七成满就停。衣物太密空气不流通，湿气困在纤维间。挂放的衣服隔一个衣架的间距。换季不穿的衣服用真空压缩袋抽气存放。柜门每天打开通风10分钟。",
+          "image": "",
+          "tip": "最简单有效的防潮动作就是每天开柜门透气",
+          "duration": "日常习惯"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "潮湿季加强防护",
+          "description": "回南天或梅雨季尽量少开柜门，在挂衣杆上挂2-3个吸湿挂袋，每月更换。衣服穿之前觉得潮，吹风机热风吹30秒。空调开除湿模式2小时，效果胜过所有干燥剂。",
+          "image": "",
+          "tip": "空调除湿是免费的强力除湿机，潮湿天每天开2小时",
+          "duration": "潮湿季每月"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "mosquito": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "蚊子总咬同一个人怎么回事",
+        "guideSubtitle": "先防再治，从源头减少蚊子叮咬"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-mosquito.svg",
+        "altText": "防蚊保护"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "清理积水源头",
+          "description": "蚊子在水里繁殖。检查家中所有积水点：花盆托盘、地漏、空调滴水盘、废弃瓶罐，每周倒一次水。水培植物每3天换一次水。这是最根本的防蚊方法。",
+          "image": "",
+          "tip": "一勺废食用油滴在地漏里可以减慢水封蒸发",
+          "duration": "每周5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "物理屏障防叮咬",
+          "description": "睡觉用蚊帐最可靠。窗户贴磁吸纱窗，十几块钱一扇。黄昏前1小时关门窗，这是蚊子觅食高峰。穿浅色长袖长裤出门，深色衣服更招蚊子。",
+          "image": "",
+          "tip": "O型血确实比其他血型更招蚊子，这是被研究证实的",
+          "duration": "日常防护"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "选对驱蚊产品",
+          "description": "驱蚊液看成分：避蚊胺（DEET）效果最强适合户外，派卡瑞丁温和有效适合日常。喷在暴露的皮肤上，先涂手心再拍脸上。每4-6小时补喷一次。电蚊香液放卧室提前1小时开。",
+          "image": "",
+          "tip": "驱蚊手环和驱蚊贴基本没用，避蚊胺才是可靠选择",
+          "duration": "每次出门前"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "被咬后快速止痒",
+          "description": "刚咬时立刻用肥皂水洗，能洗掉蚊子注入的蚁酸。已经起包涂炉甘石洗剂，几块钱一瓶止痒最好。没有就用冰块冷敷3-5分钟。千万不要挠破，抓破会留疤。",
+          "image": "",
+          "tip": "牙膏涂蚊子包能暂时清凉，干了要洗掉",
+          "duration": "即时处理"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "orange": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "橘子吃多了为什么容易上火",
+        "guideSubtitle": "知道原因+控制食量+吃完补救，放心吃橘子"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-orange.svg",
+        "altText": "新鲜橘子"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "控制每天数量",
+          "description": "成年人一天不超过3个中等大小的橘子，儿童1-2个。超过5个摄入的糖分相当于一罐可乐。不要空腹吃，饭后1小时吃最佳。橘瓣表面的白丝（橘络）不用撕，含芦丁对血管有益。",
+          "image": "",
+          "tip": "橘子升糖指数不低，血糖偏高的人更要限量",
+          "duration": ""
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "吃完立刻漱口",
+          "description": "吃完橘子用温水漱口3次，把口腔里的糖分和酸冲走。这是最简单有效的防「上火」方法。喉咙已经不舒服了，喝温盐水（一杯水+小半勺盐）漱喉。吃完后半小时内不要刷牙，酸性软化牙釉质，立即刷牙会加剧磨损。",
+          "image": "",
+          "tip": "橘子罐头的糖水比橘子本身更容易引起「上火」",
+          "duration": "即时"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "shoe": {
+      "meta": {
+        "lastUpdated": "2026-05-17",
+        "guideTitle": "白色鞋子怎么刷",
+        "guideSubtitle": "一步步教你让小白鞋焕然一新"
+      },
+      "hero": {
+        "image": "/static/images/hero/shoe-cleaning.svg",
+        "altText": "干净的小白鞋"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "准备工具",
+          "description": "准备软毛刷、专用清洁剂、一盆温水（约30°C）、干净的毛巾。温水去污效果更好，但不要用热水以免损伤鞋面。",
+          "image": "",
+          "tip": "如果没有专用清洁剂，可用中性洗洁精代替",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "拆下鞋带",
+          "description": "将鞋带完全拆下，单独用肥皂水浸泡搓洗。鞋带孔周围是藏污纳垢的重点区域，拆下鞋带后才能彻底清洁。",
+          "image": "",
+          "tip": "鞋带可用洗衣袋装着放进洗衣机",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "调配清洁液",
+          "description": "在温水中按1:5的比例加入清洁剂，搅拌均匀起泡。将软毛刷浸湿后在鞋面不显眼处先试一下，确保不伤鞋面。",
+          "image": "",
+          "tip": "浓度不宜过高，泡沫适中即可",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "刷洗鞋面",
+          "description": "用软毛刷蘸取清洁液，从鞋头向鞋跟方向轻柔刷洗。重点清洁鞋头、鞋舌和侧面折痕处。不要来回猛刷，以免损伤面料纹理。",
+          "image": "",
+          "tip": "帆布鞋可用画圈方式刷洗，皮质鞋面要更轻",
+          "duration": "5-8分钟"
+        },
+        {
+          "id": "step-5",
+          "stepNumber": 5,
+          "title": "清洁鞋底边缘",
+          "description": "鞋底侧边橡胶部分最容易发黄。用少量清洁剂或纳米海绵擦重点擦拭，顽固污渍可用旧牙刷辅助清理缝隙。",
+          "image": "",
+          "tip": "纳米海绵擦对付橡胶氧化发黄效果特别好",
+          "duration": "3分钟"
+        },
+        {
+          "id": "step-6",
+          "stepNumber": 6,
+          "title": "冲洗与晾干",
+          "description": "用清水彻底冲洗掉泡沫，用干毛巾吸走多余水分。鞋内塞入报纸或厨房纸定型，放在通风处自然晾干。千万不要暴晒或用吹风机！会导致发黄和开胶。",
+          "image": "",
+          "tip": "阴干至少6小时，确保完全干透再穿",
+          "duration": "阴干6-8小时"
+        }
+      ],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "小白鞋清洁剂套装",
+          "description": "清洁剂150ml + 替换装 + 软毛刷",
+          "price": 19.9,
+          "image": "/static/images/products/cleaner-kit.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=5TKyCBBFJd"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "洗鞋专用湿巾",
+          "description": "独立包装30片，即取即用",
+          "price": 9.9,
+          "image": "/static/images/products/wipes.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=JeqEA356e7"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-3",
+          "name": "纳米海绵擦",
+          "description": "10片装，去污力强",
+          "price": 12.9,
+          "image": "/static/images/products/magic-eraser.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=dt0QM1urHx"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-4",
+          "name": "小白鞋防水喷雾",
+          "description": "防污防水，喷一次管一周",
+          "price": 25.9,
+          "image": "/static/images/products/waterproof-spray.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=pflQBG3XmW"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        }
+      ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "snacks": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "拆封零食怎么保存不回潮",
+        "guideSubtitle": "不用封口机，家常方法保持酥脆不浪费"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-snacks.svg",
+        "altText": "密封保存的零食"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "拆封立刻分装",
+          "description": "零食回潮的头号原因：每次打开袋子湿气进去，手伸进去又带更多湿气。拆封后立刻把零食分装成一次吃一份的量。倒在干净干燥的小碗或密封袋里，其余的马上封好。不要从原袋里直接拿着吃。",
+          "image": "",
+          "tip": "买小包装比买大包装省钱，大包装吃一半回潮扔了更浪费",
+          "duration": "拆封时立刻"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "折叠夹密封法",
+          "description": "袋口整理平整，挤出袋内多余空气。袋口向下折两次，每次约2厘米，折成紧密多层。用晾衣夹或长尾夹夹住折痕两端。验证：捏袋子看会不会鼓起来，漏气的从夹缝进气。比直接夹不折叠效果好得多。",
+          "image": "",
+          "tip": "薯片袋有铝箔层，折叠+夹子密封放两周仍然脆",
+          "duration": "每次10秒"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "密封罐储存",
+          "description": "特别容易回潮的零食（饼干、蛋卷、虾条）倒进干燥干净的密封罐里。玻璃罐密封性最好，PP塑料罐次之。盖子里放一小包食品干燥剂（零食袋里那个小包别扔，收集起来）。拧紧放阴凉处。干燥剂晒2小时太阳可再生。",
+          "image": "",
+          "tip": "吃完零食的小包干燥剂不要扔，收集起来反复用",
+          "duration": "一次性"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "socks": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "袜子洗完发硬怎么改善",
+        "guideSubtitle": "不用柔顺剂，两招让袜子恢复蓬松柔软"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-socks.svg",
+        "altText": "柔软蓬松的袜子"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "白醋漂洗去残留",
+          "description": "袜子发硬是洗涤剂残留和水中矿物质沉积在纤维上。洗袜子时在最后一遍漂洗水中加入50毫升白醋（约1/4杯），浸泡5分钟后再脱水晾干。白醋能溶解碱性残留物。",
+          "image": "",
+          "tip": "不用担心醋味——晾干后味就没了",
+          "duration": "额外5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "半干时揉搓",
+          "description": "袜子晾到半干（摸起来潮但不滴水）时取下来，像搓绳一样用手揉搓1-2分钟。半干时纤维最容易重新排列，揉搓能打散板结的纤维束。然后平铺晾干，不要挂晾。",
+          "image": "",
+          "tip": "排水用按压方式，拧转会扭曲纤维让袜子更硬",
+          "duration": "1-2分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "以后这样洗",
+          "description": "洗涤剂用量减半，一定选「额外漂洗」模式，晾晒前用手把袜子抖松。棉袜和化纤袜分开洗。水质硬的地区，每洗三次袜子加一次白醋漂洗。",
+          "image": "",
+          "tip": "大多数人都放多了洗涤剂，少放比多放好",
+          "duration": "日常操作"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "stain": {
+      "meta": {
+        "lastUpdated": "2026-05-17",
+        "guideTitle": "衣服沾到油渍口红怎么清洗",
+        "guideSubtitle": "急救去渍，不留痕迹"
+      },
+      "hero": {
+        "image": "/static/images/hero/stain-removal.svg",
+        "altText": "干净整洁的衣物"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "准备工具",
+          "description": "准备去渍笔、衣物去渍湿巾、洗洁精、小碗、温水、干净白毛巾。越早处理去渍成功率越高，发现污渍后尽快行动。",
+          "image": "",
+          "tip": "不要用热水！热水会让蛋白质类污渍（血渍、奶渍）凝固更难洗",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "判断污渍类型",
+          "description": "油渍（火锅油、炒菜油、机械油）：摸上去油腻，透光可见。口红/化妆品渍：有颜色，含油脂+色素双重成分。确定类型后再选择对应清洁方法，效果更好。",
+          "image": "",
+          "tip": "不确定是什么污渍时，先用去渍湿巾小范围擦拭测试",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "预处理去油",
+          "description": "在油渍/口红印下方垫一块干净白毛巾。用洗洁精直接滴在污渍上，手指轻轻揉搓30秒让洗洁精渗透溶解油脂。口红渍可先用去渍笔点涂，等待1-2分钟让活性成分分解色素。",
+          "image": "",
+          "tip": "从污渍外圈向中心搓，避免扩散范围",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "深层清洗",
+          "description": "在小碗中用温水+少量洗洁精调配清洗液。用干净白毛巾蘸取清洗液，反复轻拍污渍区域，观察下方垫的毛巾是否吸到了污渍颜色。更换垫布位置，继续拍吸直到污渍明显淡化。",
+          "image": "",
+          "tip": "拍打比揉搓更安全，不会损伤衣物纤维",
+          "duration": "5-10分钟"
+        },
+        {
+          "id": "step-5",
+          "stepNumber": 5,
+          "title": "冲洗收尾",
+          "description": "用清水冲洗处理过的区域，去除残留的洗洁精和分解后的污渍。用干毛巾吸走多余水分，挂在通风处晾干。检查是否还有残留痕迹，必要时重复步骤3-4。",
+          "image": "",
+          "tip": "晾干后如果发现有淡淡痕迹，可用白醋+水1:2浸泡30分钟再洗",
+          "duration": "晾干后检查"
+        }
+      ],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "便携去渍笔",
+          "description": "随身携带，即时处理意外污渍",
+          "price": 12.9,
+          "image": "/static/images/products/stain-remover-pen.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=7woLtGVTRv"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "衣物去渍湿巾",
+          "description": "独立包装20片，外出应急必备",
+          "price": 9.9,
+          "image": "/static/images/products/stain-wipes.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=A85fGQraTl"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-3",
+          "name": "浓缩去油洗洁精",
+          "description": "强效乳化去油，不伤衣物不伤手",
+          "price": 7.9,
+          "image": "/static/images/products/dish-soap.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=OFR2SNXYao"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-4",
+          "name": "纯棉白毛巾套装",
+          "description": "3条装，不掉毛絮，清洁好帮手",
+          "price": 14.9,
+          "image": "/static/images/products/white-towel.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=USazUAeBxA"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        }
+      ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "teacup": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "杯子茶垢怎么快速洗掉",
+        "guideSubtitle": "不用钢丝球，厨房两样东西30秒搞定"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-teacup.svg",
+        "altText": "洗净的茶杯"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "食盐加牙膏擦洗",
+          "description": "杯里撒一小勺食盐，挤1厘米牙膏。用旧牙刷或手指蘸混合物在茶垢处打圈擦拭。盐粒提供摩擦力但不伤杯壁，牙膏中的研磨剂溶解茶渍。",
+          "image": "",
+          "tip": "家用细盐效果最好，粗盐颗粒太大",
+          "duration": "30秒"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "顽固茶垢用白醋泡",
+          "description": "茶垢太厚擦不掉时，倒入白醋至没过茶垢位置，静置15分钟。白醋软化茶垢后，再用步骤一的方法擦，一擦就掉。不锈钢杯、陶瓷杯都适用，搪瓷杯破损处不要泡。",
+          "image": "",
+          "tip": "白醋几块钱一大瓶，比专业去垢剂便宜还好用",
+          "duration": "15分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "清水冲净，养成习惯",
+          "description": "用清水彻底冲干净，确认没醋味。以后喝完茶马上用清水涮一下杯子，茶垢就不会累积。早晚涮一次，杯子永远不用费力洗。",
+          "image": "",
+          "tip": "在办公桌放一杯清水，喝完茶顺手涮杯",
+          "duration": "日常习惯"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "toilet": {
+      "meta": {
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "厕所异味散不掉怎么除味",
+        "guideSubtitle": "不用香薰不用香水，找对源头彻底除味"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-toilet.svg",
+        "altText": "清新无味的厕所"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "找到异味源头",
+          "description": "厕所异味通常来自三个地方：马桶内壁尿垢、地漏返味（水封干了）、角落霉菌。用鼻子凑近每个可能的位置闻，找到源头才能治本。",
+          "image": "",
+          "tip": "蹲下来闻地漏和马桶底座密封胶，往往在这里",
+          "duration": "3分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "小苏打+白醋洗马桶",
+          "description": "马桶内撒半杯小苏打，再倒半杯白醋，产生大量泡沫覆盖内壁。静置15分钟后用马桶刷刷洗，重点刷出水孔下方和水线位置。刷完冲水。马桶刷用完后用稀释漂白水泡一下。",
+          "image": "",
+          "tip": "顽固尿垢用可乐泡1小时再刷，磷酸能溶解尿垢",
+          "duration": "15分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "地漏补水封",
+          "description": "地漏有味说明水封干了。往地漏倒一盆清水（约2升）补充水封。如果很快又干，倒一勺食用油浮在水封表面减慢蒸发。每月往地漏倒一次小苏打+白醋清洁管壁。长期不用的地漏用保鲜膜封住。",
+          "image": "",
+          "tip": "倒油这招最管用，食用油就能封住下水道臭气",
+          "duration": "每月一次"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "白醋碗持续吸味",
+          "description": "小碗里放半碗白醋，放厕所角落。白醋挥发中和空气中的臭味。怕醋味就放咖啡渣（干用过的即可），多孔结构天然吸味。每3天更换一次。配合每天开窗通风5分钟效果翻倍。",
+          "image": "",
+          "tip": "用过的咖啡渣别扔，晒干后是最好的免费除味剂",
+          "duration": "每3天更换"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "wardrobe": {
+      "meta": {
+        "lastUpdated": "2026-05-17",
+        "guideTitle": "衣柜发霉长毛怎么处理",
+        "guideSubtitle": "告别霉味，还衣柜清新干燥"
+      },
+      "hero": {
+        "image": "/static/images/hero/wardrobe-mold.svg",
+        "altText": "干净清爽的衣柜"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "准备工具",
+          "description": "准备除霉啫喱、一次性手套、口罩、干抹布、旧牙刷、水盆。霉菌孢子有害健康，操作时务必佩戴口罩和手套，保持房间通风。",
+          "image": "",
+          "tip": "有哮喘或过敏史的人建议让家人代为操作",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "清空通风",
+          "description": "将衣柜内所有衣物、被褥全部取出。打开衣柜门和房间窗户，让空气对流至少30分钟。检查每件衣物是否有霉斑，已发霉的衣物单独分开放置。",
+          "image": "",
+          "tip": "衣物上的霉斑可以用白醋+小苏打浸泡后清洗",
+          "duration": "30分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "定点除霉",
+          "description": "戴上手套和口罩，用旧牙刷蘸取消毒酒精，先刷掉柜板表面可见的白色/绿色霉菌毛。然后在霉斑区域厚涂除霉啫喱，静置2-4小时让有效成分渗透分解霉根。",
+          "image": "",
+          "tip": "除霉啫喱涂抹厚度约2-3毫米效果最好",
+          "duration": "2-4小时"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": 4,
+          "title": "消毒去味",
+          "description": "用湿抹布擦掉干涸的除霉啫喱，再用干抹布擦干。在衣柜角落和隔板表面喷洒75%消毒酒精，自然风干后霉味会明显减轻。将防霉防蛀片放置在衣柜各个角落。",
+          "image": "",
+          "tip": "白醋加水1:1稀释后擦拭柜板，也能有效去除霉味",
+          "duration": "30分钟"
+        },
+        {
+          "id": "step-5",
+          "stepNumber": 5,
+          "title": "防潮预防",
+          "description": "在衣柜顶部或角落放置除湿袋和活性炭除湿盒。衣物重新放入前确保完全干燥。建议每3个月更换一次除湿产品，梅雨季节增加更换频率。",
+          "image": "",
+          "tip": "衣柜门常留一条缝通风，比完全密闭更能防止发霉",
+          "duration": "长期维护"
+        }
+      ],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "除霉啫喱",
+          "description": "强效渗透分解霉根，衣柜墙面通用",
+          "price": 15.9,
+          "image": "/static/images/products/mold-gel.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=KBMNiwKan6"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "除湿袋",
+          "description": "可挂式吸水袋，衣柜专用10袋装",
+          "price": 12.9,
+          "image": "/static/images/products/dehumidifier-bag.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=N2d265I4HS"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-3",
+          "name": "活性炭除湿盒",
+          "description": "吸附潮气+异味，可重复使用",
+          "price": 18.9,
+          "image": "/static/images/products/charcoal-box.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=UOFMVYUfT7"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        },
+        {
+          "id": "prod-4",
+          "name": "防霉防蛀片",
+          "description": "衣柜书柜通用，持久防护6个月",
+          "price": 9.9,
+          "image": "/static/images/products/anti-mold-sheet.svg",
+          "shopName": "拼多多",
+          "platforms": {
+            "pdd": {
+              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=60EODBtsEO"
+            }
+          },
+          "primaryPlatform": "pdd",
+          "badge": ""
+        }
+      ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    }
+  }
+}
