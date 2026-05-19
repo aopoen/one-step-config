@@ -1646,23 +1646,6 @@
       "cheer": "我感觉你已经成功了😍"
     },
     {
-      "id": "dormcurtain",
-      "title": "宿舍窗帘积灰严重又难拆，怎么快速除尘？",
-      "subtitle": "不拆窗帘，吸尘器+粘毛滚筒轻松除尘",
-      "heroImage": "/static/images/hero/card-dormcurtain.svg",
-      "summary": "窗帘除尘",
-      "tag": "宿舍清洁",
-      "keywords": [
-        "宿舍",
-        "窗帘",
-        "积灰",
-        "难拆",
-        "快速",
-        "除尘"
-      ],
-      "cheer": "我觉得你能行😎"
-    },
-    {
       "id": "blanketdry",
       "title": "被子长期晒不到太阳，怎么除潮去异味？",
       "subtitle": "吹风机+小苏打+暖水袋，被子干爽无异味",
@@ -1729,23 +1712,6 @@
         "保鲜"
       ],
       "cheer": "加油加油💪"
-    },
-    {
-      "id": "bottlemilk",
-      "title": "保温杯装奶茶咖啡后有异味，怎么清洗？",
-      "subtitle": "碎蛋壳+小苏打摇晃，保温杯异味完全消除",
-      "heroImage": "/static/images/hero/card-bottlemilk.svg",
-      "summary": "保温杯除味",
-      "tag": "杯具清洁",
-      "keywords": [
-        "保温杯",
-        "奶茶",
-        "咖啡",
-        "异味",
-        "清洗",
-        "去味"
-      ],
-      "cheer": "我感觉你已经成功了😍"
     },
     {
       "id": "noodlesmell",
@@ -2223,7 +2189,23 @@
           "duration": "晚上"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "小苏打",
+          "description": "食用级，吸附潮气去异味",
+          "price": 3.75,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXwtSjB"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -2347,7 +2329,23 @@
           "duration": "每周1分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "收纳盒",
+          "description": "带盖防尘，书本分类整齐不积灰",
+          "price": 10.9,
+          "image": "/static/images/products/placeholder-4.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RdXx4zq"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -2433,60 +2431,6 @@
           "badge": ""
         }
       ],
-      "purchase": {
-        "buttonText": "查看购买链接",
-        "sheetTitle": "选择购买渠道",
-        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
-        "taobaoLabel": "淘宝购买",
-        "pddLabel": "拼多多购买",
-        "noAppToast": "未检测到相应APP，将用浏览器打开"
-      },
-      "footer": {
-        "text": "一步到位 · 让生活更简单",
-        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
-      }
-    },
-    "bottlemilk": {
-      "meta": {
-        "version": "1.0.0",
-        "lastUpdated": "2026-05-19",
-        "guideTitle": "保温杯装奶茶咖啡后有异味，怎么清洗",
-        "guideSubtitle": "碎蛋壳+小苏打摇晃，保温杯异味完全消除"
-      },
-      "hero": {
-        "image": "/static/images/hero/card-bottlemilk.svg",
-        "altText": "保温杯除味"
-      },
-      "steps": [
-        {
-          "id": "step-1",
-          "stepNumber": 1,
-          "title": "碎蛋壳加洗洁精摇晃",
-          "description": "一个鸡蛋壳洗净捏碎放进保温杯里加半杯水和一滴洗洁精。拧紧盖子用力上下摇晃2分钟。蛋壳碎片随水流撞击内壁把奶茶和咖啡的残留油脂膜刮下来。",
-          "image": "",
-          "tip": "蛋壳一定要洗得很干净不然腥味留杯里",
-          "duration": "2分钟"
-        },
-        {
-          "id": "step-2",
-          "stepNumber": 2,
-          "title": "小苏打加白醋深度除味",
-          "description": "蛋壳洗完后如果还有味道倒两勺小苏打进杯里加少量白醋会起泡。起泡反应把缝隙里的异味分子分解。加满热水泡30分钟倒掉冲洗杯子完全没有异味。",
-          "image": "",
-          "tip": "白醋加热水不要用沸水防烫伤",
-          "duration": "30分钟"
-        },
-        {
-          "id": "step-3",
-          "stepNumber": 3,
-          "title": "杯盖密封圈拆下来单独洗",
-          "description": "保温杯异味很多时候不是内胆的问题而是杯盖密封圈发霉。把密封圈抠下来用旧牙刷蘸小苏打刷洗。密封圈缝里的陈年污垢洗出来异味根源就断了。",
-          "image": "",
-          "tip": "密封圈装回去前一定要完全擦干",
-          "duration": "3分钟"
-        }
-      ],
-      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -2996,7 +2940,23 @@
           "duration": "晾干即可"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，天然柔顺除皱",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3050,7 +3010,38 @@
           "duration": "1分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "纳米海绵擦",
+          "description": "物理去污，干擦外套不水洗",
+          "price": 10,
+          "image": "/static/images/products/magic-eraser.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXmBGxl"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "浓缩去油洗洁精",
+          "description": "强效去油，局部清洁袖口领口",
+          "price": 12.9,
+          "image": "/static/images/products/dish-soap.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcsI05z"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3683,7 +3674,38 @@
           "duration": "等干约30分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "小苏打",
+          "description": "食用级，吸油去残留",
+          "price": 3.75,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXwtSjB"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "浓缩去油洗洁精",
+          "description": "强效乳化去油，书桌一擦净",
+          "price": 12.9,
+          "image": "/static/images/products/dish-soap.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcsI05z"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3737,61 +3759,23 @@
           "duration": "日常"
         }
       ],
-      "products": [],
-      "purchase": {
-        "buttonText": "查看购买链接",
-        "sheetTitle": "选择购买渠道",
-        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
-        "taobaoLabel": "淘宝购买",
-        "pddLabel": "拼多多购买",
-        "noAppToast": "未检测到相应APP，将用浏览器打开"
-      },
-      "footer": {
-        "text": "一步到位 · 让生活更简单",
-        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
-      }
-    },
-    "dormcurtain": {
-      "meta": {
-        "version": "1.0.0",
-        "lastUpdated": "2026-05-19",
-        "guideTitle": "宿舍窗帘积灰严重又难拆，怎么快速除尘",
-        "guideSubtitle": "不拆窗帘，吸尘器+粘毛滚筒轻松除尘"
-      },
-      "hero": {
-        "image": "/static/images/hero/card-dormcurtain.svg",
-        "altText": "窗帘除尘"
-      },
-      "steps": [
+      "products": [
         {
-          "id": "step-1",
-          "stepNumber": 1,
-          "title": "吸尘器加毛刷头由上往下吸",
-          "description": "借一个手持吸尘器或宿舍公用的吸尘器换上毛刷头。从窗帘最顶端开始由上往下吸。积灰一次吸走窗帘颜色都变亮了。",
-          "image": "",
-          "tip": "由上往下吸灰尘才不会落到已经吸过的区域",
-          "duration": "5分钟"
-        },
-        {
-          "id": "step-2",
-          "stepNumber": 2,
-          "title": "粘毛滚筒滚表面灰尘",
-          "description": "没有吸尘器就用粘毛滚筒在窗帘表面从上往下滚。粘纸脏了撕掉换新的一直滚到粘纸上看不到明显的灰为止。这个方法对轻薄的纱帘效果最好。",
-          "image": "",
-          "tip": "粘毛滚筒比抹布好用不扬灰",
-          "duration": "5分钟"
-        },
-        {
-          "id": "step-3",
-          "stepNumber": 3,
-          "title": "每月喷一次除螨喷雾",
-          "description": "除尘完在窗帘上喷一层除螨喷雾或稀释的白醋水。既能杀菌又能减少下次积灰的速度。喷完自然风干不用再擦。",
-          "image": "",
-          "tip": "白醋水比例1比3喷完没有醋味",
-          "duration": "1分钟"
+          "id": "prod-1",
+          "name": "小苏打",
+          "description": "食用级，天然吸味除臭",
+          "price": 3.75,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXwtSjB"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
         }
       ],
-      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3845,7 +3829,23 @@
           "duration": "20分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "小电锅",
+          "description": "低功率迷你电煮锅，宿舍加热饭菜",
+          "price": 77.13,
+          "image": "/static/images/products/placeholder-2.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXXuPnL"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3899,7 +3899,23 @@
           "duration": "日常"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "LED灯条",
+          "description": "USB供电，桌面补光不伤眼",
+          "price": 7,
+          "image": "/static/images/products/placeholder-6.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcRwukc"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3953,7 +3969,38 @@
           "duration": "5分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，天然杀菌除霉",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "铝箔防潮垫",
+          "description": "阻隔潮气，床垫干燥不发霉",
+          "price": 33.01,
+          "image": "/static/images/products/placeholder-4.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXyisBg"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -4007,7 +4054,23 @@
           "duration": "选购"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "安全排插",
+          "description": "3C认证独立开关，宿舍用电安全",
+          "price": 11.4,
+          "image": "/static/images/products/placeholder-2.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RX2gzMD"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -6168,7 +6231,23 @@
           "duration": "吃完立刻"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，挥发中和异味分子",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -6346,7 +6425,38 @@
           "duration": "半天"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "小苏打",
+          "description": "食用级，吸附汗味油脂",
+          "price": 3.75,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXwtSjB"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "白醋",
+          "description": "食用级，分解汗渍去黄",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -6925,7 +7035,23 @@
           "duration": "每次洗衣服"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，杀菌除臭防衣服发霉",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -7663,7 +7789,23 @@
           "duration": "每次洗完"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "多功能晾衣架",
+          "description": "多夹子折叠设计，内衣袜子一次晾",
+          "price": 8.33,
+          "image": "/static/images/products/placeholder-5.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RX2aWIR"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -8580,7 +8722,23 @@
           "duration": "1分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "床头置物架",
+          "description": "挂在床沿，手机眼镜随手放不掉落",
+          "price": 4.2,
+          "image": "/static/images/products/placeholder-1.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcRSxq4"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
