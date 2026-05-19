@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updateUrl": "",
   "problems": [
     {
@@ -176,24 +176,6 @@
       ]
     },
     {
-      "id": "moisture",
-      "title": "衣柜潮湿发霉怎么防潮",
-      "subtitle": "不靠除湿机，低成本保持衣柜全年干爽",
-      "heroImage": "/static/images/hero/card-moisture.svg",
-      "keywords": [
-        "yi gui",
-        "chao shi",
-        "fang chao",
-        "衣柜",
-        "潮湿",
-        "防潮",
-        "除湿",
-        "干燥",
-        "回南天",
-        "梅雨"
-      ]
-    },
-    {
       "id": "mosquito",
       "title": "蚊子总咬同一个人怎么回事",
       "subtitle": "了解原因+科学防蚊，不再被独宠",
@@ -356,6 +338,7 @@
   "guides": {
     "bags": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "塑料袋怎么收纳更方便",
         "guideSubtitle": "三种折叠法，让塑料袋整整齐齐不占地方"
@@ -409,6 +392,7 @@
     },
     "charge": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "手机边充电边玩安不安全",
         "guideSubtitle": "避开真正的风险，放心用手机"
@@ -462,6 +446,7 @@
     },
     "floor": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "地板拖完总有水印怎么拖才干净",
         "guideSubtitle": "换对方法和工具，一拖即亮无水痕"
@@ -515,6 +500,7 @@
     },
     "glasses": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "眼镜沾灰容易花怎么办",
         "guideSubtitle": "不用衣角擦，正确清洁延长镜片寿命"
@@ -552,7 +538,23 @@
           "duration": "30秒"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "浓缩去油洗洁精",
+          "description": "强效去油，温和配方不伤镜片镀膜",
+          "price": 7.9,
+          "image": "/static/images/products/dish-soap.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcsI05z"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -568,6 +570,7 @@
     },
     "hair": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "头发容易油，天天洗好不好",
         "guideSubtitle": "找到正确的洗护节奏，告别大油头"
@@ -612,6 +615,7 @@
     },
     "hoodie": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "卫衣洗后变形变长怎么恢复",
         "guideSubtitle": "三步拯救变形的卫衣，恢复原本版型"
@@ -665,6 +669,7 @@
     },
     "keyboard": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-17",
         "guideTitle": "笔记本键盘缝隙脏了怎么深度清洁",
         "guideSubtitle": "键盘死角彻底清理，还原出厂手感"
@@ -727,58 +732,28 @@
           "description": "可反复使用，粘走缝隙灰尘和毛发",
           "price": 9.9,
           "image": "/static/images/products/keyboard-gel.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=o6lwyDrzRY"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXN1HNs9"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
           "id": "prod-2",
-          "name": "精密清灰毛刷",
-          "description": "细软刷毛，不伤键帽涂层",
-          "price": 6.9,
-          "image": "/static/images/products/precision-brush.svg",
-          "shopName": "拼多多",
-          "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=pSb3eHzsPH"
-            }
-          },
-          "primaryPlatform": "pdd",
-          "badge": ""
-        },
-        {
-          "id": "prod-3",
-          "name": "75%酒精棉片",
-          "description": "独立包装50片，消毒去油一步到位",
-          "price": 8.9,
-          "image": "/static/images/products/alcohol-wipes.svg",
-          "shopName": "拼多多",
-          "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=r8IkH7av0c"
-            }
-          },
-          "primaryPlatform": "pdd",
-          "badge": ""
-        },
-        {
-          "id": "prod-4",
-          "name": "压缩空气除尘罐",
-          "description": "强力喷射，吹走键盘深层灰尘",
+          "name": "键盘清理套装",
+          "description": "含毛刷+气吹+清洁布，一步到位",
           "price": 19.9,
-          "image": "/static/images/products/air-duster.svg",
-          "shopName": "拼多多",
+          "image": "/static/images/products/precision-brush.svg",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=OxkhytCilq"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.R2IFf8M"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         }
       ],
@@ -797,6 +772,7 @@
     },
     "leftovers": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "剩饭常温放多久会变质",
         "guideSubtitle": "记住黄金时间线，科学保存安心吃"
@@ -859,6 +835,7 @@
     },
     "lint": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "衣服起球怎么去掉",
         "guideSubtitle": "三步搞定毛球，旧衣秒变新衣"
@@ -896,69 +873,38 @@
           "duration": "日常操作"
         }
       ],
-      "products": [],
-      "purchase": {
-        "buttonText": "查看购买链接",
-        "sheetTitle": "选择购买渠道",
-        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
-        "taobaoLabel": "淘宝购买",
-        "pddLabel": "拼多多购买",
-        "noAppToast": "未检测到相应APP，将用浏览器打开"
-      },
-      "footer": {
-        "text": "一步到位 · 让生活更简单",
-        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
-      }
-    },
-    "moisture": {
-      "meta": {
-        "lastUpdated": "2026-05-19",
-        "guideTitle": "衣柜潮湿发霉怎么防潮",
-        "guideSubtitle": "不靠除湿机，低成本保持衣柜全年干爽"
-      },
-      "hero": {
-        "image": "/static/images/hero/card-moisture.svg",
-        "altText": "干爽整洁的衣柜"
-      },
-      "steps": [
+      "products": [
         {
-          "id": "step-1",
-          "stepNumber": 1,
-          "title": "隔绝墙壁湿气",
-          "description": "衣柜背板靠墙最容易从墙体吸潮。在背板和墙壁之间贴一层防潮垫或铝箔纸隔绝。衣柜与墙之间至少留2cm缝隙通风。贴一张干纸巾在背板处半天测试，如果纸变潮说明这个地方进湿气。",
-          "image": "",
-          "tip": "防潮垫几块钱一卷，比事后除霉省事得多",
-          "duration": "10分钟"
+          "id": "prod-1",
+          "name": "毛球修剪器",
+          "description": "电动修剪，去球不伤衣，充电式便携",
+          "price": 19.9,
+          "image": "/static/images/products/placeholder-1.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0geP1"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
         },
         {
-          "id": "step-2",
-          "stepNumber": 2,
-          "title": "自制干燥盒",
-          "description": "找一个小塑料盒，底部铺3厘米厚氯化钙颗粒（网上几块钱一公斤）。盒盖扎几个小孔，放衣柜角落。每月倒掉积水更换一次，一个衣柜放1-2盒。盒底垫一张厨房纸，倒水时整张兜走不脏手。",
-          "image": "",
-          "tip": "氯化钙吸湿量是硅胶干燥剂的5倍，买颗粒最划算",
-          "duration": "每月维护1次"
-        },
-        {
-          "id": "step-3",
-          "stepNumber": 3,
-          "title": "衣物不要塞满",
-          "description": "衣柜塞到七成满就停。衣物太密空气不流通，湿气困在纤维间。挂放的衣服隔一个衣架的间距。换季不穿的衣服用真空压缩袋抽气存放。柜门每天打开通风10分钟。",
-          "image": "",
-          "tip": "最简单有效的防潮动作就是每天开柜门透气",
-          "duration": "日常习惯"
-        },
-        {
-          "id": "step-4",
-          "stepNumber": 4,
-          "title": "潮湿季加强防护",
-          "description": "回南天或梅雨季尽量少开柜门，在挂衣杆上挂2-3个吸湿挂袋，每月更换。衣服穿之前觉得潮，吹风机热风吹30秒。空调开除湿模式2小时，效果胜过所有干燥剂。",
-          "image": "",
-          "tip": "空调除湿是免费的强力除湿机，潮湿天每天开2小时",
-          "duration": "潮湿季每月"
+          "id": "prod-2",
+          "name": "粘毛滚筒",
+          "description": "可撕式替换芯，粘走毛絮和灰尘",
+          "price": 8.9,
+          "image": "/static/images/products/placeholder-2.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rcst9yc"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
         }
       ],
-      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -974,6 +920,7 @@
     },
     "mosquito": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "蚊子总咬同一个人怎么回事",
         "guideSubtitle": "先防再治，从源头减少蚊子叮咬"
@@ -1036,6 +983,7 @@
     },
     "orange": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "橘子吃多了为什么容易上火",
         "guideSubtitle": "知道原因+控制食量+吃完补救，放心吃橘子"
@@ -1080,6 +1028,7 @@
     },
     "shoe": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-17",
         "guideTitle": "白色鞋子怎么刷",
         "guideSubtitle": "一步步教你让小白鞋焕然一新"
@@ -1147,62 +1096,62 @@
       "products": [
         {
           "id": "prod-1",
-          "name": "小白鞋清洁剂套装",
-          "description": "清洁剂150ml + 替换装 + 软毛刷",
-          "price": 19.9,
+          "name": "白鞋球鞋清洁干洗剂",
+          "description": "免水洗，泡沫去污，帆布皮革通用",
+          "price": 15.9,
           "image": "/static/images/products/cleaner-kit.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=5TKyCBBFJd"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcZpPlt"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
           "id": "prod-2",
-          "name": "洗鞋专用湿巾",
-          "description": "独立包装30片，即取即用",
+          "name": "白鞋清洁湿纸巾",
+          "description": "独立包装，即取即用，快速去污",
           "price": 9.9,
           "image": "/static/images/products/wipes.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=JeqEA356e7"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXmytIh"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
           "id": "prod-3",
           "name": "纳米海绵擦",
-          "description": "10片装，去污力强",
-          "price": 12.9,
+          "description": "10片装，强力去污不伤鞋面",
+          "price": 9.9,
           "image": "/static/images/products/magic-eraser.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=dt0QM1urHx"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXmBGxl"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
           "id": "prod-4",
-          "name": "小白鞋防水喷雾",
-          "description": "防污防水，喷一次管一周",
-          "price": 25.9,
+          "name": "晾鞋袋",
+          "description": "防变形防落灰，洗完鞋晾晒专用",
+          "price": 12.9,
           "image": "/static/images/products/waterproof-spray.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=pflQBG3XmW"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcsSoDu"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         }
       ],
@@ -1221,6 +1170,7 @@
     },
     "snacks": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "拆封零食怎么保存不回潮",
         "guideSubtitle": "不用封口机，家常方法保持酥脆不浪费"
@@ -1258,7 +1208,23 @@
           "duration": "一次性"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "零食收纳盒",
+          "description": "多规格密封罐套装，防潮保鲜",
+          "price": 15.9,
+          "image": "/static/images/products/placeholder-4.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0pl8O"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1274,6 +1240,7 @@
     },
     "socks": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "袜子洗完发硬怎么改善",
         "guideSubtitle": "不用柔顺剂，两招让袜子恢复蓬松柔软"
@@ -1327,6 +1294,7 @@
     },
     "stain": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-17",
         "guideTitle": "衣服沾到油渍口红怎么清洗",
         "guideSubtitle": "急救去渍，不留痕迹"
@@ -1389,13 +1357,13 @@
           "description": "随身携带，即时处理意外污渍",
           "price": 12.9,
           "image": "/static/images/products/stain-remover-pen.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=7woLtGVTRv"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXNToCs"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
@@ -1404,13 +1372,13 @@
           "description": "独立包装20片，外出应急必备",
           "price": 9.9,
           "image": "/static/images/products/stain-wipes.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=A85fGQraTl"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.R2s1Scz"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
@@ -1419,28 +1387,13 @@
           "description": "强效乳化去油，不伤衣物不伤手",
           "price": 7.9,
           "image": "/static/images/products/dish-soap.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=OFR2SNXYao"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcsI05z"
             }
           },
-          "primaryPlatform": "pdd",
-          "badge": ""
-        },
-        {
-          "id": "prod-4",
-          "name": "纯棉白毛巾套装",
-          "description": "3条装，不掉毛絮，清洁好帮手",
-          "price": 14.9,
-          "image": "/static/images/products/white-towel.svg",
-          "shopName": "拼多多",
-          "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=USazUAeBxA"
-            }
-          },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         }
       ],
@@ -1459,6 +1412,7 @@
     },
     "teacup": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "杯子茶垢怎么快速洗掉",
         "guideSubtitle": "不用钢丝球，厨房两样东西30秒搞定"
@@ -1496,7 +1450,23 @@
           "duration": "日常习惯"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，去茶垢除水垢，天然清洁",
+          "price": 5.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1512,6 +1482,7 @@
     },
     "toilet": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-19",
         "guideTitle": "厕所异味散不掉怎么除味",
         "guideSubtitle": "不用香薰不用香水，找对源头彻底除味"
@@ -1558,7 +1529,23 @@
           "duration": "每3天更换"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，除异味杀菌，天然消臭",
+          "price": 5.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1574,6 +1561,7 @@
     },
     "wardrobe": {
       "meta": {
+        "version": "1.0.0",
         "lastUpdated": "2026-05-17",
         "guideTitle": "衣柜发霉长毛怎么处理",
         "guideSubtitle": "告别霉味，还衣柜清新干燥"
@@ -1632,32 +1620,32 @@
       "products": [
         {
           "id": "prod-1",
-          "name": "除霉啫喱",
+          "name": "除霉啫喱喷雾",
           "description": "强效渗透分解霉根，衣柜墙面通用",
           "price": 15.9,
           "image": "/static/images/products/mold-gel.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods1.html?ps=KBMNiwKan6"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0bvru"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
           "id": "prod-2",
-          "name": "除湿袋",
-          "description": "可挂式吸水袋，衣柜专用10袋装",
-          "price": 12.9,
-          "image": "/static/images/products/dehumidifier-bag.svg",
-          "shopName": "拼多多",
+          "name": "防霉防蛀片",
+          "description": "衣柜书柜通用，持久防护6个月",
+          "price": 9.9,
+          "image": "/static/images/products/anti-mold-sheet.svg",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=N2d265I4HS"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.R2IC7Rq"
             }
           },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         },
         {
@@ -1666,28 +1654,13 @@
           "description": "吸附潮气+异味，可重复使用",
           "price": 18.9,
           "image": "/static/images/products/charcoal-box.svg",
-          "shopName": "拼多多",
+          "shopName": "淘宝",
           "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods2.html?ps=UOFMVYUfT7"
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.R2IBmI"
             }
           },
-          "primaryPlatform": "pdd",
-          "badge": ""
-        },
-        {
-          "id": "prod-4",
-          "name": "防霉防蛀片",
-          "description": "衣柜书柜通用，持久防护6个月",
-          "price": 9.9,
-          "image": "/static/images/products/anti-mold-sheet.svg",
-          "shopName": "拼多多",
-          "platforms": {
-            "pdd": {
-              "webUrl": "https://mobile.yangkeduo.com/goods.html?ps=60EODBtsEO"
-            }
-          },
-          "primaryPlatform": "pdd",
+          "primaryPlatform": "taobao",
           "badge": ""
         }
       ],
