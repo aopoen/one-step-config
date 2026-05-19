@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updateUrl": "",
   "problems": [
     {
@@ -333,9 +333,577 @@
         "薯片",
         "饼干"
       ]
+    },
+    {
+      "id": "pepper",
+      "title": "切完辣椒手火辣辣的疼，怎么快速缓解？",
+      "subtitle": "不用乱涂乱抹，厨房两样东西立刻见效",
+      "heroImage": "/static/images/hero/card-pepper.svg",
+      "keywords": [
+        "辣椒",
+        "辣手",
+        "火辣",
+        "切辣椒",
+        "缓解",
+        "止痛"
+      ]
+    },
+    {
+      "id": "pot",
+      "title": "不锈钢锅底烧焦发黑了，怎么刷能变回原样？",
+      "subtitle": "不用钢丝球硬刷，轻松恢复光亮",
+      "heroImage": "/static/images/hero/card-pot.svg",
+      "keywords": [
+        "锅底",
+        "烧焦",
+        "发黑",
+        "不锈钢",
+        "刷锅",
+        "焦黑"
+      ]
+    },
+    {
+      "id": "meat",
+      "title": "刚买的肉太硬切不动，怎么快速解冻？",
+      "subtitle": "不用微波炉不用热水，10分钟化开",
+      "heroImage": "/static/images/hero/card-meat.svg",
+      "keywords": [
+        "肉",
+        "解冻",
+        "冻肉",
+        "切肉",
+        "快速解冻",
+        "化冻"
+      ]
+    },
+    {
+      "id": "hood",
+      "title": "炒完菜油烟机上的油盒太难洗，有什么偷懒办法？",
+      "subtitle": "不用手搓不用刷，油盒从此不再难洗",
+      "heroImage": "/static/images/hero/card-hood.svg",
+      "keywords": [
+        "油烟机",
+        "油盒",
+        "清洗",
+        "油污",
+        "厨房",
+        "偷懒"
+      ]
+    },
+    {
+      "id": "potato",
+      "title": "土豆、红薯买多了放久了容易发芽，怎么保存更久？",
+      "subtitle": "不用冰箱，家常方法延长保鲜一倍",
+      "heroImage": "/static/images/hero/card-potato.svg",
+      "keywords": [
+        "土豆",
+        "红薯",
+        "发芽",
+        "保存",
+        "储存",
+        "保鲜"
+      ]
+    },
+    {
+      "id": "dumpling",
+      "title": "煮饺子总是粘锅或者破皮，有什么小窍门？",
+      "subtitle": "记住三个关键点，煮出完整不破的饺子",
+      "heroImage": "/static/images/hero/card-dumpling.svg",
+      "keywords": [
+        "饺子",
+        "粘锅",
+        "破皮",
+        "煮饺子",
+        "窍门",
+        "水饺"
+      ]
+    },
+    {
+      "id": "cola",
+      "title": "打开的可乐、雪碧没喝完，怎么放才不会跑气？",
+      "subtitle": "不用特殊瓶盖，简单一招保留气泡",
+      "heroImage": "/static/images/hero/card-cola.svg",
+      "keywords": [
+        "可乐",
+        "雪碧",
+        "跑气",
+        "没气",
+        "汽水",
+        "保存",
+        "碳酸"
+      ]
+    },
+    {
+      "id": "knife",
+      "title": "菜刀用久了变钝，家里没有磨刀石怎么办？",
+      "subtitle": "碗底、瓷盘都能磨，临时救急够锋利",
+      "heroImage": "/static/images/hero/card-knife.svg",
+      "keywords": [
+        "菜刀",
+        "钝",
+        "磨刀",
+        "磨刀石",
+        "刀钝",
+        "锋利"
+      ]
+    },
+    {
+      "id": "fridge",
+      "title": "冰箱里总有一股怪味，除了放柚子皮还能放什么？",
+      "subtitle": "比柚子皮更管用的除味法，还不用花钱",
+      "heroImage": "/static/images/hero/card-fridge.svg",
+      "keywords": [
+        "冰箱",
+        "怪味",
+        "异味",
+        "除味",
+        "柚子皮",
+        "臭味"
+      ]
+    },
+    {
+      "id": "bread",
+      "title": "蒸出来的馒头总是塌塌的，不够蓬松是怎么回事？",
+      "subtitle": "搞懂发酵和火候，以后馒头个个蓬松",
+      "heroImage": "/static/images/hero/card-bread.svg",
+      "keywords": [
+        "馒头",
+        "塌",
+        "蓬松",
+        "蒸馒头",
+        "发酵",
+        "面食"
+      ]
+    },
+    {
+      "id": "yellow",
+      "title": "白衣服放久了发黄，怎么洗能变白？",
+      "subtitle": "不用漂白水，温和方法让白衣服重返亮白",
+      "heroImage": "/static/images/hero/card-yellow.svg",
+      "keywords": [
+        "白衣服",
+        "发黄",
+        "变白",
+        "漂白",
+        "白衣",
+        "泛黄"
+      ]
+    },
+    {
+      "id": "down",
+      "title": "羽绒服洗完有一坨一坨的印子，怎么恢复蓬松？",
+      "subtitle": "不是洗坏了，拍一拍就能救回来",
+      "heroImage": "/static/images/hero/card-down.svg",
+      "keywords": [
+        "羽绒服",
+        "一坨",
+        "印子",
+        "蓬松",
+        "水洗",
+        "恢复"
+      ]
+    },
+    {
+      "id": "jeans",
+      "title": "新买的深色牛仔裤掉色严重，怎么固色？",
+      "subtitle": "盐水泡一泡，以后洗再也不掉色",
+      "heroImage": "/static/images/hero/card-jeans.svg",
+      "keywords": [
+        "牛仔裤",
+        "掉色",
+        "固色",
+        "深色",
+        "褪色",
+        "新裤子"
+      ]
+    },
+    {
+      "id": "sweater",
+      "title": "毛衣缩水变小了，还有办法挽救吗？",
+      "subtitle": "用护发素就能把毛衣撑回来",
+      "heroImage": "/static/images/hero/card-sweater.svg",
+      "keywords": [
+        "毛衣",
+        "缩水",
+        "变小",
+        "挽救",
+        "恢复",
+        "羊毛"
+      ]
+    },
+    {
+      "id": "canvas",
+      "title": "帆布鞋洗完边缘发黄，怎么避免？",
+      "subtitle": "洗鞋前多一步，晒干后不再黄边",
+      "heroImage": "/static/images/hero/card-canvas.svg",
+      "keywords": [
+        "帆布鞋",
+        "发黄",
+        "边缘",
+        "黄边",
+        "洗鞋",
+        "白鞋"
+      ]
+    },
+    {
+      "id": "zipper",
+      "title": "拉链卡住了拉不动，除了硬拽还有什么办法？",
+      "subtitle": "蜡烛、肥皂都能救急，一拉就顺",
+      "heroImage": "/static/images/hero/card-zipper.svg",
+      "keywords": [
+        "拉链",
+        "卡住",
+        "拉不动",
+        "顺滑",
+        "衣服拉链",
+        "卡死"
+      ]
+    },
+    {
+      "id": "cuff",
+      "title": "羽绒服袖口总是黑黑的，不想整件洗怎么局部清洁？",
+      "subtitle": "袖口专用清洁法，不用下水洗整件",
+      "heroImage": "/static/images/hero/card-cuff.svg",
+      "keywords": [
+        "羽绒服",
+        "袖口",
+        "黑",
+        "局部清洁",
+        "袖口黑",
+        "免洗"
+      ]
+    },
+    {
+      "id": "leather",
+      "title": "皮包或者皮鞋受潮发霉了，怎么清理？",
+      "subtitle": "不伤皮面的除霉法，恢复光泽",
+      "heroImage": "/static/images/hero/card-leather.svg",
+      "keywords": [
+        "皮包",
+        "皮鞋",
+        "受潮",
+        "发霉",
+        "霉斑",
+        "皮革"
+      ]
+    },
+    {
+      "id": "sticker",
+      "title": "衣服上的标签撕下来总留胶印，怎么去除？",
+      "subtitle": "不用指甲抠，家中常见物品轻松搞定",
+      "heroImage": "/static/images/hero/card-sticker.svg",
+      "keywords": [
+        "标签",
+        "胶印",
+        "残留",
+        "去胶",
+        "不干胶",
+        "贴纸"
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "纱窗上全是灰尘，不拆下来怎么洗干净？",
+      "subtitle": "一张旧报纸或湿巾就能解决",
+      "heroImage": "/static/images/hero/card-screen.svg",
+      "keywords": [
+        "纱窗",
+        "灰尘",
+        "清洗",
+        "不拆",
+        "窗纱",
+        "积灰"
+      ]
+    },
+    {
+      "id": "shower",
+      "title": "淋浴喷头用久了出水变小，是不是堵了怎么疏通？",
+      "subtitle": "不用拆不用换，白醋泡一晚就好",
+      "heroImage": "/static/images/hero/card-shower.svg",
+      "keywords": [
+        "淋浴",
+        "喷头",
+        "出水小",
+        "堵塞",
+        "疏通",
+        "花洒"
+      ]
+    },
+    {
+      "id": "roach",
+      "title": "家里的蟑螂怎么都杀不完，有什么根治的办法？",
+      "subtitle": "搞懂蟑螂的弱点，从根源上断绝",
+      "heroImage": "/static/images/hero/card-roach.svg",
+      "keywords": [
+        "蟑螂",
+        "杀不完",
+        "根治",
+        "除蟑",
+        "灭蟑",
+        "小强"
+      ]
+    },
+    {
+      "id": "furniture",
+      "title": "实木家具上有划痕或者烫痕，怎么修复？",
+      "subtitle": "核桃、牙膏就能修复，不用请师傅",
+      "heroImage": "/static/images/hero/card-furniture.svg",
+      "keywords": [
+        "实木",
+        "家具",
+        "划痕",
+        "烫痕",
+        "修复",
+        "伤痕"
+      ]
+    },
+    {
+      "id": "carpet",
+      "title": "地毯上洒了咖啡或果汁，怎么快速清理不留印？",
+      "subtitle": "及时处理三步法，干了也看不出痕迹",
+      "heroImage": "/static/images/hero/card-carpet.svg",
+      "keywords": [
+        "地毯",
+        "咖啡",
+        "果汁",
+        "清理",
+        "污渍",
+        "洒了"
+      ]
+    },
+    {
+      "id": "glassdoor",
+      "title": "浴室玻璃门上的水渍怎么擦都擦不掉，怎么办？",
+      "subtitle": "不用费力擦，喷一喷水垢自己溶解",
+      "heroImage": "/static/images/hero/card-glassdoor.svg",
+      "keywords": [
+        "浴室",
+        "玻璃",
+        "水渍",
+        "水垢",
+        "擦不掉",
+        "玻璃门"
+      ]
+    },
+    {
+      "id": "ac",
+      "title": "空调吹出来的风有霉味，自己怎么简单清洗滤网？",
+      "subtitle": "不用请师傅上门，5分钟自己搞定",
+      "heroImage": "/static/images/hero/card-ac.svg",
+      "keywords": [
+        "空调",
+        "霉味",
+        "滤网",
+        "清洗",
+        "异味",
+        "清洁"
+      ]
+    },
+    {
+      "id": "crayon",
+      "title": "墙上被孩子画了蜡笔印，怎么擦才不掉漆？",
+      "subtitle": "用电吹风就能轻松擦除，不留痕迹",
+      "heroImage": "/static/images/hero/card-crayon.svg",
+      "keywords": [
+        "蜡笔",
+        "墙上",
+        "蜡笔印",
+        "擦除",
+        "孩子",
+        "涂鸦"
+      ]
+    },
+    {
+      "id": "trash",
+      "title": "垃圾桶即使套了袋子也有异味，怎么解决？",
+      "subtitle": "桶底撒一样东西，臭味虫蝇都不来",
+      "heroImage": "/static/images/hero/card-trash.svg",
+      "keywords": [
+        "垃圾桶",
+        "异味",
+        "除臭",
+        "臭味",
+        "垃圾味",
+        "套袋"
+      ]
+    },
+    {
+      "id": "chargeport",
+      "title": "手机充电口接触不良，是不是里面进灰了怎么清理？",
+      "subtitle": "不用牙签不用针，安全清理充电口",
+      "heroImage": "/static/images/hero/card-chargeport.svg",
+      "keywords": [
+        "充电口",
+        "接触不良",
+        "进灰",
+        "清理",
+        "手机充电"
+      ]
+    },
+    {
+      "id": "keys",
+      "title": "键盘缝隙里全是头发和碎屑，怎么清理最干净？",
+      "subtitle": "比软胶更彻底的方法，死角都能清",
+      "heroImage": "/static/images/hero/card-keys.svg",
+      "keywords": [
+        "键盘",
+        "缝隙",
+        "头发",
+        "碎屑",
+        "清理",
+        "键帽"
+      ]
+    },
+    {
+      "id": "privacy",
+      "title": "快递单上的个人信息怎么快速涂抹掉，防止泄露？",
+      "subtitle": "不用撕不用烧，随手一涂信息全遮盖",
+      "heroImage": "/static/images/hero/card-privacy.svg",
+      "keywords": [
+        "快递单",
+        "信息",
+        "涂抹",
+        "隐私",
+        "泄露",
+        "遮盖"
+      ]
+    },
+    {
+      "id": "cable",
+      "title": "数据线总是缠绕在一起打结，怎么收纳最方便？",
+      "subtitle": "一卷一扣，从此抽屉里再也不乱",
+      "heroImage": "/static/images/hero/card-cable.svg",
+      "keywords": [
+        "数据线",
+        "缠绕",
+        "打结",
+        "收纳",
+        "整理",
+        "线材"
+      ]
+    },
+    {
+      "id": "static",
+      "title": "冬天脱毛衣总是有静电，怎么消除？",
+      "subtitle": "多做一个动作，脱衣服再也没有噼里啪啦",
+      "heroImage": "/static/images/hero/card-static.svg",
+      "keywords": [
+        "静电",
+        "毛衣",
+        "冬天",
+        "脱衣服",
+        "消除",
+        "电"
+      ]
+    },
+    {
+      "id": "neck",
+      "title": "睡觉总是落枕脖子疼，怎么快速缓解？",
+      "subtitle": "不用去医院，热敷加一个动作立马松快",
+      "heroImage": "/static/images/hero/card-neck.svg",
+      "keywords": [
+        "落枕",
+        "脖子疼",
+        "缓解",
+        "睡觉",
+        "扭脖子",
+        "颈椎"
+      ]
+    },
+    {
+      "id": "garlic",
+      "title": "吃完大蒜嘴里味道很大，怎么快速去除口臭？",
+      "subtitle": "喝牛奶比嚼口香糖更管用",
+      "heroImage": "/static/images/hero/card-garlic.svg",
+      "keywords": [
+        "大蒜",
+        "口臭",
+        "味道",
+        "去除",
+        "蒜味",
+        "口气"
+      ]
+    },
+    {
+      "id": "heel",
+      "title": "脚后跟总是干裂起皮，涂什么最管用？",
+      "subtitle": "几块钱的东西比贵价护足霜更有效",
+      "heroImage": "/static/images/hero/card-heel.svg",
+      "keywords": [
+        "脚后跟",
+        "干裂",
+        "起皮",
+        "裂口",
+        "护足",
+        "脚跟"
+      ]
+    },
+    {
+      "id": "blister",
+      "title": "新鞋磨脚后跟，出门在外有什么应急办法？",
+      "subtitle": "包里放一样东西，磨脚立刻缓解",
+      "heroImage": "/static/images/hero/card-blister.svg",
+      "keywords": [
+        "新鞋",
+        "磨脚",
+        "后跟",
+        "打脚",
+        "应急",
+        "创可贴"
+      ]
+    },
+    {
+      "id": "hiccup",
+      "title": "打嗝停不下来，有什么科学的止嗝方法？",
+      "subtitle": "不用吓不用憋气，医学认可的止嗝法",
+      "heroImage": "/static/images/hero/card-hiccup.svg",
+      "keywords": [
+        "打嗝",
+        "止嗝",
+        "停不下来",
+        "科学",
+        "方法",
+        "呃逆"
+      ]
     }
   ],
   "guides": {
+    "ac": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "空调吹出来的风有霉味，自己怎么简单清洗滤网",
+        "guideSubtitle": "不用请师傅上门，5分钟自己搞定"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-ac.svg",
+        "altText": "空调吹出来的风有霉味"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "bags": {
       "meta": {
         "version": "1.0.0",
@@ -374,6 +942,186 @@
           "image": "",
           "tip": "袋子叠放时统一口朝一个方向，一眼能认出大小",
           "duration": "日常维护"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "blister": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "新鞋磨脚后跟，出门在外有什么应急办法",
+        "guideSubtitle": "包里放一样东西，磨脚立刻缓解"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-blister.svg",
+        "altText": "新鞋磨脚后跟"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "bread": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "蒸出来的馒头总是塌塌的，不够蓬松是怎么回事",
+        "guideSubtitle": "搞懂发酵和火候，以后馒头个个蓬松"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-bread.svg",
+        "altText": "蒸出来的馒头总是塌塌的"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "cable": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "数据线总是缠绕在一起打结，怎么收纳最方便",
+        "guideSubtitle": "一卷一扣，从此抽屉里再也不乱"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-cable.svg",
+        "altText": "数据线总是缠绕在一起打结"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "canvas": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "帆布鞋洗完边缘发黄，怎么避免",
+        "guideSubtitle": "洗鞋前多一步，晒干后不再黄边"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-canvas.svg",
+        "altText": "帆布鞋洗完边缘发黄"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "carpet": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "地毯上洒了咖啡或果汁，怎么快速清理不留印",
+        "guideSubtitle": "及时处理三步法，干了也看不出痕迹"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-carpet.svg",
+        "altText": "地毯上洒了咖啡或果汁"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
         }
       ],
       "products": [],
@@ -444,6 +1192,222 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "chargeport": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "手机充电口接触不良，是不是里面进灰了怎么清理",
+        "guideSubtitle": "不用牙签不用针，安全清理充电口"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-chargeport.svg",
+        "altText": "手机充电口接触不良"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "cola": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "打开的可乐、雪碧没喝完，怎么放才不会跑气",
+        "guideSubtitle": "不用特殊瓶盖，简单一招保留气泡"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-cola.svg",
+        "altText": "打开的可乐、雪碧没喝完"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "crayon": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "墙上被孩子画了蜡笔印，怎么擦才不掉漆",
+        "guideSubtitle": "用电吹风就能轻松擦除，不留痕迹"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-crayon.svg",
+        "altText": "墙上被孩子画了蜡笔印"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "cuff": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "羽绒服袖口总是黑黑的，不想整件洗怎么局部清洁",
+        "guideSubtitle": "袖口专用清洁法，不用下水洗整件"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-cuff.svg",
+        "altText": "羽绒服袖口总是黑黑的"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "down": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "羽绒服洗完有一坨一坨的印子，怎么恢复蓬松",
+        "guideSubtitle": "不是洗坏了，拍一拍就能救回来"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-down.svg",
+        "altText": "羽绒服洗完有一坨一坨的印子"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dumpling": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "煮饺子总是粘锅或者破皮，有什么小窍门",
+        "guideSubtitle": "记住三个关键点，煮出完整不破的饺子"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dumpling.svg",
+        "altText": "煮饺子总是粘锅或者破皮"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "floor": {
       "meta": {
         "version": "1.0.0",
@@ -482,6 +1446,150 @@
           "image": "",
           "tip": "柔顺剂拖瓷砖比任何地板清洁剂都好用，还不贵",
           "duration": "每次拖地"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "fridge": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "冰箱里总有一股怪味，除了放柚子皮还能放什么",
+        "guideSubtitle": "比柚子皮更管用的除味法，还不用花钱"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-fridge.svg",
+        "altText": "冰箱里总有一股怪味"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "furniture": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "实木家具上有划痕或者烫痕，怎么修复",
+        "guideSubtitle": "核桃、牙膏就能修复，不用请师傅"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-furniture.svg",
+        "altText": "实木家具上有划痕或者烫痕"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "garlic": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "吃完大蒜嘴里味道很大，怎么快速去除口臭",
+        "guideSubtitle": "喝牛奶比嚼口香糖更管用"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-garlic.svg",
+        "altText": "吃完大蒜嘴里味道很大"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "glassdoor": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "浴室玻璃门上的水渍怎么擦都擦不掉，怎么办",
+        "guideSubtitle": "不用费力擦，喷一喷水垢自己溶解"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-glassdoor.svg",
+        "altText": "浴室玻璃门上的水渍怎么擦都擦不掉"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
         }
       ],
       "products": [],
@@ -543,7 +1651,7 @@
           "id": "prod-1",
           "name": "浓缩去油洗洁精",
           "description": "强效去油，温和配方不伤镜片镀膜",
-          "price": 7.9,
+          "price": 12.9,
           "image": "/static/images/products/dish-soap.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -613,6 +1721,114 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "heel": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "脚后跟总是干裂起皮，涂什么最管用",
+        "guideSubtitle": "几块钱的东西比贵价护足霜更有效"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-heel.svg",
+        "altText": "脚后跟总是干裂起皮"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "hiccup": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "打嗝停不下来，有什么科学的止嗝方法",
+        "guideSubtitle": "不用吓不用憋气，医学认可的止嗝法"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-hiccup.svg",
+        "altText": "打嗝停不下来"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "hood": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "炒完菜油烟机上的油盒太难洗，有什么偷懒办法",
+        "guideSubtitle": "不用手搓不用刷，油盒从此不再难洗"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-hood.svg",
+        "altText": "炒完菜油烟机上的油盒太难洗"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "hoodie": {
       "meta": {
         "version": "1.0.0",
@@ -651,6 +1867,42 @@
           "image": "",
           "tip": "两个晾衣网叠起来承重更好，衣服更平整",
           "duration": "日常操作"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "jeans": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "新买的深色牛仔裤掉色严重，怎么固色",
+        "guideSubtitle": "盐水泡一泡，以后洗再也不掉色"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-jeans.svg",
+        "altText": "新买的深色牛仔裤掉色严重"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
         }
       ],
       "products": [],
@@ -730,7 +1982,7 @@
           "id": "prod-1",
           "name": "键盘清理软胶",
           "description": "可反复使用，粘走缝隙灰尘和毛发",
-          "price": 9.9,
+          "price": 1,
           "image": "/static/images/products/keyboard-gel.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -745,7 +1997,7 @@
           "id": "prod-2",
           "name": "键盘清理套装",
           "description": "含毛刷+气吹+清洁布，一步到位",
-          "price": 19.9,
+          "price": 6.25,
           "image": "/static/images/products/precision-brush.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -757,6 +2009,114 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "keys": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "键盘缝隙里全是头发和碎屑，怎么清理最干净",
+        "guideSubtitle": "比软胶更彻底的方法，死角都能清"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-keys.svg",
+        "altText": "键盘缝隙里全是头发和碎屑"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "knife": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "菜刀用久了变钝，家里没有磨刀石怎么办",
+        "guideSubtitle": "碗底、瓷盘都能磨，临时救急够锋利"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-knife.svg",
+        "altText": "菜刀用久了变钝"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "leather": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "皮包或者皮鞋受潮发霉了，怎么清理",
+        "guideSubtitle": "不伤皮面的除霉法，恢复光泽"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-leather.svg",
+        "altText": "皮包或者皮鞋受潮发霉了"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -878,12 +2238,12 @@
           "id": "prod-1",
           "name": "毛球修剪器",
           "description": "电动修剪，去球不伤衣，充电式便携",
-          "price": 19.9,
+          "price": 13.4,
           "image": "/static/images/products/placeholder-1.svg",
           "shopName": "淘宝",
           "platforms": {
             "taobao": {
-              "webUrl": "https://m.tb.cn/h.Rc0geP1"
+              "webUrl": "https://m.tb.cn/h.RcY5ixr"
             }
           },
           "primaryPlatform": "taobao",
@@ -893,18 +2253,54 @@
           "id": "prod-2",
           "name": "粘毛滚筒",
           "description": "可撕式替换芯，粘走毛絮和灰尘",
-          "price": 8.9,
+          "price": 1.71,
           "image": "/static/images/products/placeholder-2.svg",
           "shopName": "淘宝",
           "platforms": {
             "taobao": {
-              "webUrl": "https://m.tb.cn/h.Rcst9yc"
+              "webUrl": "https://m.tb.cn/h.RXMh4sw"
             }
           },
           "primaryPlatform": "taobao",
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "meat": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "刚买的肉太硬切不动，怎么快速解冻",
+        "guideSubtitle": "不用微波炉不用热水，10分钟化开"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-meat.svg",
+        "altText": "刚买的肉太硬切不动"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -967,6 +2363,58 @@
           "duration": "即时处理"
         }
       ],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "驱蚊液",
+          "description": "含避蚊胺，长效驱蚊，户外必备",
+          "price": 17.9,
+          "image": "/static/images/products/placeholder-5.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcYhCBx"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "neck": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "睡觉总是落枕脖子疼，怎么快速缓解",
+        "guideSubtitle": "不用去医院，热敷加一个动作立马松快"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-neck.svg",
+        "altText": "睡觉总是落枕脖子疼"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
       "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
@@ -1010,6 +2458,222 @@
           "image": "",
           "tip": "橘子罐头的糖水比橘子本身更容易引起「上火」",
           "duration": "即时"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "pepper": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "切完辣椒手火辣辣的疼，怎么快速缓解",
+        "guideSubtitle": "不用乱涂乱抹，厨房两样东西立刻见效"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-pepper.svg",
+        "altText": "切完辣椒手火辣辣的疼"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "pot": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "不锈钢锅底烧焦发黑了，怎么刷能变回原样",
+        "guideSubtitle": "不用钢丝球硬刷，轻松恢复光亮"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-pot.svg",
+        "altText": "不锈钢锅底烧焦发黑了"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "potato": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "土豆、红薯买多了放久了容易发芽，怎么保存更久",
+        "guideSubtitle": "不用冰箱，家常方法延长保鲜一倍"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-potato.svg",
+        "altText": "土豆、红薯买多了放久了容易发芽"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "privacy": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "快递单上的个人信息怎么快速涂抹掉，防止泄露",
+        "guideSubtitle": "不用撕不用烧，随手一涂信息全遮盖"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-privacy.svg",
+        "altText": "快递单上的个人信息怎么快速涂抹掉"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "roach": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "家里的蟑螂怎么都杀不完，有什么根治的办法",
+        "guideSubtitle": "搞懂蟑螂的弱点，从根源上断绝"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-roach.svg",
+        "altText": "家里的蟑螂怎么都杀不完"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "screen": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "纱窗上全是灰尘，不拆下来怎么洗干净",
+        "guideSubtitle": "一张旧报纸或湿巾就能解决"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-screen.svg",
+        "altText": "纱窗上全是灰尘"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
         }
       ],
       "products": [],
@@ -1098,7 +2762,7 @@
           "id": "prod-1",
           "name": "白鞋球鞋清洁干洗剂",
           "description": "免水洗，泡沫去污，帆布皮革通用",
-          "price": 15.9,
+          "price": 31.9,
           "image": "/static/images/products/cleaner-kit.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1113,7 +2777,7 @@
           "id": "prod-2",
           "name": "白鞋清洁湿纸巾",
           "description": "独立包装，即取即用，快速去污",
-          "price": 9.9,
+          "price": 14.9,
           "image": "/static/images/products/wipes.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1143,7 +2807,7 @@
           "id": "prod-4",
           "name": "晾鞋袋",
           "description": "防变形防落灰，洗完鞋晾晒专用",
-          "price": 12.9,
+          "price": 2.49,
           "image": "/static/images/products/waterproof-spray.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1155,6 +2819,42 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "shower": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "淋浴喷头用久了出水变小，是不是堵了怎么疏通",
+        "guideSubtitle": "不用拆不用换，白醋泡一晚就好"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-shower.svg",
+        "altText": "淋浴喷头用久了出水变小"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1213,7 +2913,7 @@
           "id": "prod-1",
           "name": "零食收纳盒",
           "description": "多规格密封罐套装，防潮保鲜",
-          "price": 15.9,
+          "price": 8.04,
           "image": "/static/images/products/placeholder-4.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1355,7 +3055,7 @@
           "id": "prod-1",
           "name": "便携去渍笔",
           "description": "随身携带，即时处理意外污渍",
-          "price": 12.9,
+          "price": 23.66,
           "image": "/static/images/products/stain-remover-pen.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1370,7 +3070,7 @@
           "id": "prod-2",
           "name": "衣物去渍湿巾",
           "description": "独立包装20片，外出应急必备",
-          "price": 9.9,
+          "price": 6.88,
           "image": "/static/images/products/stain-wipes.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1385,7 +3085,7 @@
           "id": "prod-3",
           "name": "浓缩去油洗洁精",
           "description": "强效乳化去油，不伤衣物不伤手",
-          "price": 7.9,
+          "price": 12.9,
           "image": "/static/images/products/dish-soap.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1397,6 +3097,114 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "static": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "冬天脱毛衣总是有静电，怎么消除",
+        "guideSubtitle": "多做一个动作，脱衣服再也没有噼里啪啦"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-static.svg",
+        "altText": "冬天脱毛衣总是有静电"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "sticker": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "衣服上的标签撕下来总留胶印，怎么去除",
+        "guideSubtitle": "不用指甲抠，家中常见物品轻松搞定"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-sticker.svg",
+        "altText": "衣服上的标签撕下来总留胶印"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "sweater": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "毛衣缩水变小了，还有办法挽救吗",
+        "guideSubtitle": "用护发素就能把毛衣撑回来"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-sweater.svg",
+        "altText": "毛衣缩水变小了"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1455,7 +3263,7 @@
           "id": "prod-1",
           "name": "白醋",
           "description": "食用级，去茶垢除水垢，天然清洁",
-          "price": 5.9,
+          "price": 6.9,
           "image": "/static/images/products/placeholder-3.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1534,7 +3342,7 @@
           "id": "prod-1",
           "name": "白醋",
           "description": "食用级，除异味杀菌，天然消臭",
-          "price": 5.9,
+          "price": 6.9,
           "image": "/static/images/products/placeholder-3.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1546,6 +3354,42 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "trash": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "垃圾桶即使套了袋子也有异味，怎么解决",
+        "guideSubtitle": "桶底撒一样东西，臭味虫蝇都不来"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-trash.svg",
+        "altText": "垃圾桶即使套了袋子也有异味"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1622,7 +3466,7 @@
           "id": "prod-1",
           "name": "除霉啫喱喷雾",
           "description": "强效渗透分解霉根，衣柜墙面通用",
-          "price": 15.9,
+          "price": 19,
           "image": "/static/images/products/mold-gel.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1637,7 +3481,7 @@
           "id": "prod-2",
           "name": "防霉防蛀片",
           "description": "衣柜书柜通用，持久防护6个月",
-          "price": 9.9,
+          "price": 13.9,
           "image": "/static/images/products/anti-mold-sheet.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1652,7 +3496,7 @@
           "id": "prod-3",
           "name": "活性炭除湿盒",
           "description": "吸附潮气+异味，可重复使用",
-          "price": 18.9,
+          "price": 5.9,
           "image": "/static/images/products/charcoal-box.svg",
           "shopName": "淘宝",
           "platforms": {
@@ -1664,6 +3508,78 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "yellow": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "白衣服放久了发黄，怎么洗能变白",
+        "guideSubtitle": "不用漂白水，温和方法让白衣服重返亮白"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-yellow.svg",
+        "altText": "白衣服放久了发黄"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "zipper": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "拉链卡住了拉不动，除了硬拽还有什么办法",
+        "guideSubtitle": "蜡烛、肥皂都能救急，一拉就顺"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-zipper.svg",
+        "altText": "拉链卡住了拉不动"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "待补充",
+          "description": "内容待补充",
+          "image": "",
+          "tip": "",
+          "duration": ""
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
