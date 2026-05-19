@@ -882,23 +882,6 @@
       "cheer": "你可以的，去实操吧😆"
     },
     {
-      "id": "keys",
-      "title": "键盘缝隙里全是头发和碎屑，怎么清理最干净？",
-      "subtitle": "比软胶更彻底的方法，死角都能清",
-      "heroImage": "/static/images/hero/card-keys.svg",
-      "keywords": [
-        "键盘",
-        "缝隙",
-        "头发",
-        "碎屑",
-        "清理",
-        "键帽"
-      ],
-      "tag": "键盘清洁",
-      "summary": "键盘缝隙",
-      "cheer": "我感觉你已经成功了😍"
-    },
-    {
       "id": "privacy",
       "title": "快递单上的个人信息怎么快速涂抹掉，防止泄露？",
       "subtitle": "不用撕不用烧，随手一涂信息全遮盖",
@@ -2709,60 +2692,6 @@
           "badge": ""
         }
       ],
-      "purchase": {
-        "buttonText": "查看购买链接",
-        "sheetTitle": "选择购买渠道",
-        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
-        "taobaoLabel": "淘宝购买",
-        "pddLabel": "拼多多购买",
-        "noAppToast": "未检测到相应APP，将用浏览器打开"
-      },
-      "footer": {
-        "text": "一步到位 · 让生活更简单",
-        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
-      }
-    },
-    "keys": {
-      "meta": {
-        "version": "1.0.0",
-        "lastUpdated": "2026-05-19",
-        "guideTitle": "键盘缝隙里全是头发和碎屑，怎么清理最干净",
-        "guideSubtitle": "比软胶更彻底的方法，死角都能清"
-      },
-      "hero": {
-        "image": "/static/images/hero/card-keys.svg",
-        "altText": "键盘缝隙里全是头发和碎屑"
-      },
-      "steps": [
-        {
-          "id": "step-1",
-          "stepNumber": 1,
-          "title": "拔掉键帽前先拍照",
-          "description": "如果要拆键帽先用手机把键盘正面拍一张清晰的照片。拆下来容易但装回去的时候可能忘了哪个键在哪个位置。照片就是你的还原说明书。",
-          "image": "",
-          "tip": "特别是空格键和回车键底下有金属支架结构不一样",
-          "duration": "1分钟"
-        },
-        {
-          "id": "step-2",
-          "stepNumber": 2,
-          "title": "拆键帽加清洁泥粘灰",
-          "description": "用拔键器或两个手指夹住键帽轻轻往上提。键帽全拆下来后用键盘清洁泥在键盘基板上滚动按压把所有碎屑头发灰尘粘走。清洁泥在键帽上也滚一遍。",
-          "image": "",
-          "tip": "机械键盘好拆薄膜键盘键帽不建议拆容易断卡扣",
-          "duration": "10分钟"
-        },
-        {
-          "id": "step-3",
-          "stepNumber": 3,
-          "title": "酒精棉片擦底座加装回",
-          "description": "清洁泥处理完后用75%酒精棉片把键盘底座和键帽侧面擦一遍去油。等酒精完全挥发后对照照片把键帽一个个按回去。手感立刻像新键盘一样清爽。",
-          "image": "",
-          "tip": "酒精挥发后再装湿的时候不要通电",
-          "duration": "5分钟"
-        }
-      ],
-      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
