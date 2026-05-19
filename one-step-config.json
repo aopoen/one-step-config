@@ -1399,7 +1399,38 @@
           "duration": "2小时"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "小苏打",
+          "description": "食用级，吸色素去污渍",
+          "price": 3.75,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXvpZY8"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "浓缩去油洗洁精",
+          "description": "强效去渍，一擦即净",
+          "price": 12.9,
+          "image": "/static/images/products/dish-soap.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcsI05z"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1878,7 +1909,38 @@
           "duration": "每次拖地"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，去水印防残留",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "衣物柔顺剂",
+          "description": "拖地加一点，地板不留水痕",
+          "price": 18.9,
+          "image": "/static/images/products/placeholder-4.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcT2bNT"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -2815,7 +2877,53 @@
           "duration": "5分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，天然杀菌除霉",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "皮具清洁剂",
+          "description": "专业配方，去霉不伤皮面",
+          "price": 37.43,
+          "image": "/static/images/products/cleaner-kit.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXvPQD6"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-3",
+          "name": "皮具护理膏",
+          "description": "滋养皮革，恢复光泽柔软",
+          "price": 36.6,
+          "image": "/static/images/products/waterproof-spray.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcTUcIR"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3606,7 +3714,38 @@
           "duration": "2分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "纳米海绵擦",
+          "description": "物理去污，干湿两用，纱窗清洁利器",
+          "price": 4.75,
+          "image": "/static/images/products/magic-eraser.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXvWx34"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "粘毛滚筒",
+          "description": "可撕式替换芯，粘走细小毛絮",
+          "price": 2.01,
+          "image": "/static/images/products/placeholder-2.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RdaB9JC"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3802,7 +3941,23 @@
           "duration": "每月30分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，溶解水垢疏通喷头",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3926,7 +4081,23 @@
           "duration": "日常操作"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，天然柔顺去硬",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -4098,7 +4269,38 @@
           "duration": "日常"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "白醋",
+          "description": "食用级，天然抗静电",
+          "price": 6.9,
+          "image": "/static/images/products/placeholder-3.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.Rc0mdPV"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        },
+        {
+          "id": "prod-2",
+          "name": "衣物柔顺剂",
+          "description": "抗静电配方，衣服不再噼里啪啦",
+          "price": 18.9,
+          "image": "/static/images/products/placeholder-4.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RcT2bNT"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -4152,7 +4354,23 @@
           "duration": "1分钟"
         }
       ],
-      "products": [],
+      "products": [
+        {
+          "id": "prod-1",
+          "name": "75%酒精湿巾",
+          "description": "溶解残胶，挥发快不留痕",
+          "price": 5.61,
+          "image": "/static/images/products/alcohol-wipes.svg",
+          "shopName": "淘宝",
+          "platforms": {
+            "taobao": {
+              "webUrl": "https://m.tb.cn/h.RXvg7ZS"
+            }
+          },
+          "primaryPlatform": "taobao",
+          "badge": ""
+        }
+      ],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
