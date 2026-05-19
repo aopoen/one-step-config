@@ -1576,6 +1576,363 @@
         "炖"
       ],
       "cheer": "你可以的，去实操吧😆"
+    },
+    {
+      "id": "ladder",
+      "title": "上下床爬梯硌脚又滑，有什么防滑防护办法？",
+      "subtitle": "防滑条+旧毛巾包裹，上下床安全不硌脚",
+      "heroImage": "/static/images/hero/card-ladder.svg",
+      "summary": "爬梯防滑",
+      "tag": "宿舍安全",
+      "keywords": [
+        "上下床",
+        "爬梯",
+        "硌脚",
+        "防滑",
+        "防护",
+        "宿舍"
+      ],
+      "cheer": "你可以的，去实操吧😆"
+    },
+    {
+      "id": "dormmattress",
+      "title": "宿舍床垫容易潮湿起霉，怎么防潮除霉？",
+      "subtitle": "床垫下铺防潮垫+定期通风，床垫干燥不起霉",
+      "heroImage": "/static/images/hero/card-dormmattress.svg",
+      "summary": "床垫防潮",
+      "tag": "宿舍防潮",
+      "keywords": [
+        "宿舍",
+        "床垫",
+        "潮湿",
+        "起霉",
+        "防潮",
+        "除霉"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "pillowyellow",
+      "title": "枕头睡久发黄有汗味，不能水洗怎么清洁？",
+      "subtitle": "小苏打+白醋喷雾+日光浴，枕头干净除味",
+      "heroImage": "/static/images/hero/card-pillowyellow.svg",
+      "summary": "枕头清洁",
+      "tag": "寝具清洁",
+      "keywords": [
+        "枕头",
+        "发黄",
+        "汗味",
+        "水洗",
+        "清洁",
+        "除味"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "topbunk",
+      "title": "上铺东西容易往下掉，怎么收纳更安全？",
+      "subtitle": "床边挂篮+防滑垫，上铺物品安全不掉落",
+      "heroImage": "/static/images/hero/card-topbunk.svg",
+      "summary": "上铺收纳",
+      "tag": "宿舍收纳",
+      "keywords": [
+        "上铺",
+        "东西",
+        "往下掉",
+        "收纳",
+        "安全",
+        "床边"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "dormcurtain",
+      "title": "宿舍窗帘积灰严重又难拆，怎么快速除尘？",
+      "subtitle": "不拆窗帘，吸尘器+粘毛滚筒轻松除尘",
+      "heroImage": "/static/images/hero/card-dormcurtain.svg",
+      "summary": "窗帘除尘",
+      "tag": "宿舍清洁",
+      "keywords": [
+        "宿舍",
+        "窗帘",
+        "积灰",
+        "难拆",
+        "快速",
+        "除尘"
+      ],
+      "cheer": "我觉得你能行😎"
+    },
+    {
+      "id": "blanketdry",
+      "title": "被子长期晒不到太阳，怎么除潮去异味？",
+      "subtitle": "吹风机+小苏打+暖水袋，被子干爽无异味",
+      "heroImage": "/static/images/hero/card-blanketdry.svg",
+      "summary": "被子除潮",
+      "tag": "寝具干燥",
+      "keywords": [
+        "被子",
+        "晒不到",
+        "太阳",
+        "除潮",
+        "去异味",
+        "潮湿"
+      ],
+      "cheer": "我觉得你能行😎"
+    },
+    {
+      "id": "dormheat",
+      "title": "宿舍禁止用大功率电器，怎么简单加热饭菜？",
+      "subtitle": "自热包+保温袋，不用电也能吃上热乎饭",
+      "heroImage": "/static/images/hero/card-dormheat.svg",
+      "summary": "加热饭菜",
+      "tag": "宿舍妙招",
+      "keywords": [
+        "宿舍",
+        "大功率",
+        "电器",
+        "加热",
+        "饭菜",
+        "微波炉"
+      ],
+      "cheer": "你可以的，去实操吧😆"
+    },
+    {
+      "id": "deskoil",
+      "title": "外卖汤汁洒在书桌，留下油渍怎么清理？",
+      "subtitle": "洗洁精+小苏打+湿布，书桌油渍一擦即净",
+      "heroImage": "/static/images/hero/card-deskoil.svg",
+      "summary": "桌面去油",
+      "tag": "桌面清洁",
+      "keywords": [
+        "外卖",
+        "汤汁",
+        "书桌",
+        "油渍",
+        "清理",
+        "桌面"
+      ],
+      "cheer": "加油加油💪"
+    },
+    {
+      "id": "fruitkeep",
+      "title": "水果放宿舍容易坏，常温怎么短期保鲜？",
+      "subtitle": "报纸包裹+分开存放，水果常温多放一周",
+      "heroImage": "/static/images/hero/card-fruitkeep.svg",
+      "summary": "水果保鲜",
+      "tag": "食材保存",
+      "keywords": [
+        "水果",
+        "放宿舍",
+        "容易坏",
+        "常温",
+        "短期",
+        "保鲜"
+      ],
+      "cheer": "加油加油💪"
+    },
+    {
+      "id": "bottlemilk",
+      "title": "保温杯装奶茶咖啡后有异味，怎么清洗？",
+      "subtitle": "碎蛋壳+小苏打摇晃，保温杯异味完全消除",
+      "heroImage": "/static/images/hero/card-bottlemilk.svg",
+      "summary": "保温杯除味",
+      "tag": "杯具清洁",
+      "keywords": [
+        "保温杯",
+        "奶茶",
+        "咖啡",
+        "异味",
+        "清洗",
+        "去味"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "noodlesmell",
+      "title": "宿舍吃泡面味道散不掉，怎么快速去味？",
+      "subtitle": "开窗对流+白醋碗吸味，泡面味10分钟散光",
+      "heroImage": "/static/images/hero/card-noodlesmell.svg",
+      "summary": "泡面去味",
+      "tag": "宿舍去味",
+      "keywords": [
+        "宿舍",
+        "泡面",
+        "味道",
+        "散不掉",
+        "去味",
+        "通风"
+      ],
+      "cheer": "我觉得你能行😎"
+    },
+    {
+      "id": "raindry",
+      "title": "阴雨天衣服晾不干发臭，怎么快速风干？",
+      "subtitle": "空调/风扇对着吹+衣架间隔挂，衣服速干不臭",
+      "heroImage": "/static/images/hero/card-raindry.svg",
+      "summary": "速干衣服",
+      "tag": "衣物速干",
+      "keywords": [
+        "阴雨天",
+        "衣服",
+        "晾不干",
+        "发臭",
+        "风干",
+        "速干"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "shoemold",
+      "title": "鞋子堆在阳台潮湿发霉，怎么干燥除味？",
+      "subtitle": "报纸塞鞋+小苏打吸潮，鞋子干燥不发霉",
+      "heroImage": "/static/images/hero/card-shoemold.svg",
+      "summary": "鞋子干燥",
+      "tag": "鞋类护理",
+      "keywords": [
+        "鞋子",
+        "阳台",
+        "潮湿",
+        "发霉",
+        "干燥",
+        "除味"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "clothwrinkle2",
+      "title": "衣服叠久起褶皱，宿舍没有熨斗怎么除皱？",
+      "subtitle": "浴室蒸汽+湿毛巾微波，宿舍也能除衣皱",
+      "heroImage": "/static/images/hero/card-clothwrinkle2.svg",
+      "summary": "衣服除皱",
+      "tag": "衣物除皱",
+      "keywords": [
+        "衣服",
+        "叠久",
+        "褶皱",
+        "熨斗",
+        "除皱",
+        "宿舍"
+      ],
+      "cheer": "我觉得你能行😎"
+    },
+    {
+      "id": "sneakerdry",
+      "title": "运动鞋洗完晒变形，怎么正确晾晒？",
+      "subtitle": "不要暴晒+鞋内塞纸定型，运动鞋洗后不变形",
+      "heroImage": "/static/images/hero/card-sneakerdry.svg",
+      "summary": "运动鞋晾晒",
+      "tag": "鞋类晾晒",
+      "keywords": [
+        "运动鞋",
+        "洗完",
+        "晒变形",
+        "晾晒",
+        "定型",
+        "晒鞋"
+      ],
+      "cheer": "你可以的，去实操吧😆"
+    },
+    {
+      "id": "sockdry",
+      "title": "袜子内衣不好晾晒，怎么干净又隐私？",
+      "subtitle": "折叠晾衣架+室内挂绳，内衣袜子干净又隐蔽",
+      "heroImage": "/static/images/hero/card-sockdry.svg",
+      "summary": "内衣晾晒",
+      "tag": "衣物晾晒",
+      "keywords": [
+        "袜子",
+        "内衣",
+        "晾晒",
+        "干净",
+        "隐私",
+        "晒衣"
+      ],
+      "cheer": "加油加油💪"
+    },
+    {
+      "id": "coatspot",
+      "title": "冬天厚外套难清洗，局部污渍怎么清洁？",
+      "subtitle": "洗洁精+牙刷局部处理，厚外套免水洗去污",
+      "heroImage": "/static/images/hero/card-coatspot.svg",
+      "summary": "外套局部洗",
+      "tag": "局部清洁",
+      "keywords": [
+        "冬天",
+        "厚外套",
+        "清洗",
+        "局部",
+        "污渍",
+        "清洁"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "dormlight",
+      "title": "宿舍灯光太暗伤眼睛，怎么低成本补光？",
+      "subtitle": "LED灯条+台灯双光源，宿舍明亮不伤眼",
+      "heroImage": "/static/images/hero/card-dormlight.svg",
+      "summary": "宿舍补光",
+      "tag": "宿舍照明",
+      "keywords": [
+        "宿舍",
+        "灯光",
+        "太暗",
+        "伤眼睛",
+        "补光",
+        "低成本"
+      ],
+      "cheer": "我觉得你能行😎"
+    },
+    {
+      "id": "dormsocket",
+      "title": "宿舍插座不够用，怎么安全拓展用电？",
+      "subtitle": "正规排插+独立开关+USB口，用电安全不跳闸",
+      "heroImage": "/static/images/hero/card-dormsocket.svg",
+      "summary": "插座拓展",
+      "tag": "宿舍用电",
+      "keywords": [
+        "宿舍",
+        "插座",
+        "不够用",
+        "安全",
+        "拓展",
+        "用电"
+      ],
+      "cheer": "加油加油💪"
+    },
+    {
+      "id": "bookdust",
+      "title": "宿舍灰尘大，书本容易脏怎么防尘？",
+      "subtitle": "保鲜膜包书+收纳盒分类，书本久放不积灰",
+      "heroImage": "/static/images/hero/card-bookdust.svg",
+      "summary": "书本防尘",
+      "tag": "书本防尘",
+      "keywords": [
+        "宿舍",
+        "灰尘",
+        "书本",
+        "容易脏",
+        "防尘",
+        "保护"
+      ],
+      "cheer": "我感觉你已经成功了😍"
+    },
+    {
+      "id": "dormair",
+      "title": "宿舍空气不流通闷臭，怎么简单通风换气？",
+      "subtitle": "对流通风+小苏打吸味+绿植，宿舍空气清新",
+      "heroImage": "/static/images/hero/card-dormair.svg",
+      "summary": "宿舍通风",
+      "tag": "宿舍通风",
+      "keywords": [
+        "宿舍",
+        "空气",
+        "不流通",
+        "闷臭",
+        "通风",
+        "换气"
+      ],
+      "cheer": "我觉得你能行😎"
     }
   ],
   "guides": {
@@ -1826,6 +2183,60 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "blanketdry": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "被子长期晒不到太阳，怎么除潮去异味",
+        "guideSubtitle": "吹风机+小苏打+暖水袋，被子干爽无异味"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-blanketdry.svg",
+        "altText": "被子除潮"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "吹风机大面积吹被窝",
+          "description": "晚上睡前用吹风机热风在被窝里来回吹3到5分钟重点吹脚部区域。热风带走被子内部潮气同时被窝暖烘烘的睡起来舒服多了。",
+          "image": "",
+          "tip": "吹风机不要停在一个地方不动防烫伤面料",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "白天被子铺开小苏打干洗",
+          "description": "白天起床后把被子平铺在床上撒一层小苏打。小苏打吸附潮气和异味分子。保持铺开状态到晚上回来用衣架拍掉小苏打被子干爽蓬松无异味。",
+          "image": "",
+          "tip": "小苏打拍干净再睡不然床单会白白的",
+          "duration": "白天全天"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "热水袋放被窝驱潮",
+          "description": "睡前灌一个热水袋放进被窝。热量蒸发被子内部水汽同时温暖助眠比吹风机可持续几小时。外面用毛巾包着防烫伤。",
+          "image": "",
+          "tip": "热水袋不要直接接触被子用毛巾包一层",
+          "duration": "晚上"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "blister": {
       "meta": {
         "version": "1.0.0",
@@ -1883,6 +2294,60 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "bookdust": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍灰尘大，书本容易脏怎么防尘",
+        "guideSubtitle": "保鲜膜包书+收纳盒分类，书本久放不积灰"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-bookdust.svg",
+        "altText": "书本防尘"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "常用书用保鲜膜包封面",
+          "description": "经常翻的书用保鲜膜把封面和封底包一层拉紧用胶带固定边缘。保鲜膜透明不挡书名既防尘又防泼溅。一学期包一次脏了撕掉换新的。",
+          "image": "",
+          "tip": "不要包太厚一层就够了不然翻页手感不好",
+          "duration": "2分钟一本"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "不常用的书放进收纳盒",
+          "description": "看完了或暂时不翻的书分类放进带盖的透明收纳盒里。盒子防尘加防潮书页不会发黄卷边。透明盒子能看到里面是哪几本书找起来方便。",
+          "image": "",
+          "tip": "盒子里放一小包食品干燥剂防潮效果更好",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "每周用干布掸一下书脊",
+          "description": "即使包了封面书架上的书顶面和书脊还是会积灰。每周用干布或鸡毛掸子轻轻扫一遍书脊。积灰不扫久了灰渗进书页里就不好清理了。",
+          "image": "",
+          "tip": "从上往下扫下层书的灰才不会落到下层",
+          "duration": "每周1分钟"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -1968,6 +2433,60 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "bottlemilk": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "保温杯装奶茶咖啡后有异味，怎么清洗",
+        "guideSubtitle": "碎蛋壳+小苏打摇晃，保温杯异味完全消除"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-bottlemilk.svg",
+        "altText": "保温杯除味"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "碎蛋壳加洗洁精摇晃",
+          "description": "一个鸡蛋壳洗净捏碎放进保温杯里加半杯水和一滴洗洁精。拧紧盖子用力上下摇晃2分钟。蛋壳碎片随水流撞击内壁把奶茶和咖啡的残留油脂膜刮下来。",
+          "image": "",
+          "tip": "蛋壳一定要洗得很干净不然腥味留杯里",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "小苏打加白醋深度除味",
+          "description": "蛋壳洗完后如果还有味道倒两勺小苏打进杯里加少量白醋会起泡。起泡反应把缝隙里的异味分子分解。加满热水泡30分钟倒掉冲洗杯子完全没有异味。",
+          "image": "",
+          "tip": "白醋加热水不要用沸水防烫伤",
+          "duration": "30分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "杯盖密封圈拆下来单独洗",
+          "description": "保温杯异味很多时候不是内胆的问题而是杯盖密封圈发霉。把密封圈抠下来用旧牙刷蘸小苏打刷洗。密封圈缝里的陈年污垢洗出来异味根源就断了。",
+          "image": "",
+          "tip": "密封圈装回去前一定要完全擦干",
+          "duration": "3分钟"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -2424,6 +2943,114 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "clothwrinkle2": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "衣服叠久起褶皱，宿舍没有熨斗怎么除皱",
+        "guideSubtitle": "浴室蒸汽+湿毛巾微波，宿舍也能除衣皱"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-clothwrinkle2.svg",
+        "altText": "衣服除皱"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "挂在浴室洗热水澡时蒸汽熏",
+          "description": "把起皱的衣服挂在浴室远离淋浴的位置。洗热水澡时浴室的蒸汽自然把衣服纤维软化褶皱自动抚平。洗完澡拿出来挂10分钟干了褶皱消失。",
+          "image": "",
+          "tip": "衣服不要挂太近水汽凝结成水滴反而留水印",
+          "duration": "洗澡15分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "湿毛巾加吹风机局部除皱",
+          "description": "单独有褶皱的地方用喷壶喷微潮。吹风机热风保持15厘米距离对着褶皱来回吹同时用手拉平面料。热风加拉力让纤维重新排列褶皱立即消失。",
+          "image": "",
+          "tip": "不要离太近吹高温会损伤化纤面料",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "白醋水喷雾挂晾",
+          "description": "白醋和水1比3混合装喷瓶喷在衣服褶皱处至微潮。用手抚平挂起来通风晾干。白醋软化纤维让褶皱自然松弛干了衣服平整如新。真丝羊毛棉麻都适用。",
+          "image": "",
+          "tip": "这个方法最温和所有面料都能用",
+          "duration": "晾干即可"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "coatspot": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "冬天厚外套难清洗，局部污渍怎么清洁",
+        "guideSubtitle": "洗洁精+牙刷局部处理，厚外套免水洗去污"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-coatspot.svg",
+        "altText": "外套局部洗"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "洗洁精加温水加旧牙刷局部刷",
+          "description": "外套袖口领口这些容易脏的地方挤一泵洗洁精用温水打湿的旧牙刷打圈刷。洗洁精去油污比洗衣液强十倍。刷到泡沫变黑用湿巾擦掉反复2到3次直到泡沫变白。",
+          "image": "",
+          "tip": "不要用新牙刷刷毛太硬旧牙刷刷毛软不伤面料",
+          "duration": "3分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "纳米海绵擦干擦",
+          "description": "如果只是表皮层的灰和皮脂用干纳米海绵擦直接干擦不用沾水。海绵擦的微孔结构把表层脏东西蹭下来。擦了拍掉碎屑干净利落。",
+          "image": "",
+          "tip": "适合羽绒服棉服这种不能频繁水洗的外套",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "吹风机冷风吹干收尾",
+          "description": "局部处理完用吹风机冷风档对着处理区域吹干。不用整件下水洗外套洗多了保暖性下降。日常袖口领口脏了就局部清洁一季洗一次整件就够了。",
+          "image": "",
+          "tip": "冷风不要热风热风可能让面料缩水",
+          "duration": "1分钟"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -3016,6 +3643,384 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "deskoil": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "外卖汤汁洒在书桌，留下油渍怎么清理",
+        "guideSubtitle": "洗洁精+小苏打+湿布，书桌油渍一擦即净"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-deskoil.svg",
+        "altText": "桌面去油"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "纸巾先按压吸掉汤汁",
+          "description": "汤汁刚洒上去第一时间用干纸巾按压吸走液体。一定只能按压不能擦否则油渍面积越擦越大。反复换纸吸到纸上看不到潮湿为止。",
+          "image": "",
+          "tip": "按压不是擦拭这是关键区别",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "洗洁精加温水局部擦洗",
+          "description": "纸巾吸干后在油渍处挤一滴洗洁精用手指打圈揉搓。洗洁精是专业去油的乳化剂比任何清洁剂都管用。揉30秒后用微潮的布擦掉泡沫。",
+          "image": "",
+          "tip": "洗洁精不要多一滴就够多了反而难擦净",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "小苏打吸残留",
+          "description": "如果擦完还有淡淡油印在还没干的时候撒一层小苏打覆盖油渍区域。小苏打把渗入桌面微孔的油吸出来。等干了用干布扫掉桌面恢复哑光干净。",
+          "image": "",
+          "tip": "这个方法对木质桌面尤其有效",
+          "duration": "等干约30分钟"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dormair": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍空气不流通闷臭，怎么简单通风换气",
+        "guideSubtitle": "对流通风+小苏打吸味+绿植，宿舍空气清新"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dormair.svg",
+        "altText": "宿舍通风"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "早晚各开窗门对流5分钟",
+          "description": "早上起床后和晚上睡觉前把窗户和门同时打开形成穿堂风。即使外面冷也坚持开5分钟。室内一整晚积累的二氧化碳和异味被对流空气全部置换一遍。",
+          "image": "",
+          "tip": "对流比只开窗不通门效果好三倍",
+          "duration": "早晚各5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "角落放敞口小碗装小苏打或咖啡渣",
+          "description": "在宿舍角落放一个敞口小碗里面装小苏打或晒干的咖啡渣。两样东西都是天然的吸味剂能把空气中悬浮的臭味分子吸附。每周换一次新的。",
+          "image": "",
+          "tip": "咖啡渣去咖啡店要免费的回来晒干就能用",
+          "duration": "每周更换"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "养一小盆绿萝或虎皮兰",
+          "description": "在书桌或窗台上养一小盆绿萝或虎皮兰。这两种植物是NASA认证的空气净化植物吸收甲醛和异味能力强关键是超级好养不用费心打理。",
+          "image": "",
+          "tip": "不要多养一盆就够了多了招虫子",
+          "duration": "日常"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dormcurtain": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍窗帘积灰严重又难拆，怎么快速除尘",
+        "guideSubtitle": "不拆窗帘，吸尘器+粘毛滚筒轻松除尘"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dormcurtain.svg",
+        "altText": "窗帘除尘"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "吸尘器加毛刷头由上往下吸",
+          "description": "借一个手持吸尘器或宿舍公用的吸尘器换上毛刷头。从窗帘最顶端开始由上往下吸。积灰一次吸走窗帘颜色都变亮了。",
+          "image": "",
+          "tip": "由上往下吸灰尘才不会落到已经吸过的区域",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "粘毛滚筒滚表面灰尘",
+          "description": "没有吸尘器就用粘毛滚筒在窗帘表面从上往下滚。粘纸脏了撕掉换新的一直滚到粘纸上看不到明显的灰为止。这个方法对轻薄的纱帘效果最好。",
+          "image": "",
+          "tip": "粘毛滚筒比抹布好用不扬灰",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "每月喷一次除螨喷雾",
+          "description": "除尘完在窗帘上喷一层除螨喷雾或稀释的白醋水。既能杀菌又能减少下次积灰的速度。喷完自然风干不用再擦。",
+          "image": "",
+          "tip": "白醋水比例1比3喷完没有醋味",
+          "duration": "1分钟"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dormheat": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍禁止用大功率电器，怎么简单加热饭菜",
+        "guideSubtitle": "自热包+保温袋，不用电也能吃上热乎饭"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dormheat.svg",
+        "altText": "加热饭菜"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "自热包加密封袋DIY加热",
+          "description": "买几个自热包几毛钱一个。把饭菜装进耐热密封袋里挤出空气封好。自热包加少量水放在饭盒底部上面放饭菜袋盖上盖子。15分钟后饭菜热透。",
+          "image": "",
+          "tip": "密封袋一定要耐热的普通保鲜袋会被烫坏",
+          "duration": "15分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "保温袋加开水烫",
+          "description": "食堂打饭时多要一碗开水。饭菜放进保温袋或裹在厚衣服里开水碗放在旁边一起封在袋里。水蒸气的热量透过碗壁加热饭菜维持20分钟还温热。",
+          "image": "",
+          "tip": "保温袋十几块一个可以用整个大学时期",
+          "duration": "10分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "迷你暖菜板",
+          "description": "如果宿舍阿姨允许小功率电器可以买一个迷你暖菜板功率才40W。把饭菜放在暖菜板上调到60度盖上盖子20分钟热好。",
+          "image": "",
+          "tip": "先确认宿舍的功率限制再下手买",
+          "duration": "20分钟"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dormlight": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍灯光太暗伤眼睛，怎么低成本补光",
+        "guideSubtitle": "LED灯条+台灯双光源，宿舍明亮不伤眼"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dormlight.svg",
+        "altText": "宿舍补光"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "书桌上方贴LED灯条",
+          "description": "买一条USB供电的LED灯条十几块钱贴在书桌上方的柜子底部或书架上。灯条不占桌面空间发光均匀比台灯单一光源舒服得多。USB接口插充电宝或手机充电器就能用。",
+          "image": "",
+          "tip": "选暖白光或自然光色温4000K最护眼",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "台灯放左手边灯光不挡手",
+          "description": "如果你习惯用右手写字台灯一定要放在书桌左边。灯光从左前方照过来写字的时候右手不会挡住光线。放在右边的话手影子正好投在正在写的字上。",
+          "image": "",
+          "tip": "台灯灯泡选5到8W的LED不要太亮也不要太暗",
+          "duration": "日常"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "床上加一个小夹子阅读灯",
+          "description": "床上看书或玩手机的时候用夹子式的小阅读灯夹在床沿或床头栏杆上。USB充电的一周充一次。比开大灯省电不打扰室友睡觉。",
+          "image": "",
+          "tip": "选可调亮度和色温的两档三档的",
+          "duration": "日常"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dormmattress": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍床垫容易潮湿起霉，怎么防潮除霉",
+        "guideSubtitle": "床垫下铺防潮垫+定期通风，床垫干燥不起霉"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dormmattress.svg",
+        "altText": "床垫防潮"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "床垫下铺一层铝箔防潮垫",
+          "description": "买一张铝箔防潮垫剪成和床垫一样大小垫在床垫和床板之间铝箔面朝下。铝箔阻隔床板上的潮气往上传导几块钱一张效果管一个学期。",
+          "image": "",
+          "tip": "铝箔防潮垫比防潮垫布效果好十倍",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "每周掀起床垫通风半小时",
+          "description": "每天早上起床后把被子掀开床垫立起来靠在墙上通风半小时。人体一晚上呼吸和出汗产生的水汽全积在床垫里不通风就给霉菌提供了生长环境。",
+          "image": "",
+          "tip": "起床后先别铺床通风第一铺床第二",
+          "duration": "每天半小时"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "发现霉斑用白醋擦拭",
+          "description": "床垫上如果有小霉斑不要用水擦。白醋原液蘸棉柔巾在霉斑上按压擦拭。白醋杀菌除霉同时挥发快不会让床垫更湿。擦完用吹风机冷风吹干。",
+          "image": "",
+          "tip": "千万不要用水洗床垫里面的海绵吸了水就废了",
+          "duration": "5分钟"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "dormsocket": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍插座不够用，怎么安全拓展用电",
+        "guideSubtitle": "正规排插+独立开关+USB口，用电安全不跳闸"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-dormsocket.svg",
+        "altText": "插座拓展"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "只用带独立开关的3C认证排插",
+          "description": "买排插一定要选有3C认证和独立开关的每个插座孔都有单独的开关。什么设备不用就把那个插座单独关掉而不是拔插头。过载保护自动跳闸也是必备功能。",
+          "image": "",
+          "tip": "绝对不要买杂牌或没有3C标志的排插",
+          "duration": "选购"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "大功率电器不同时开",
+          "description": "如果宿舍限电300W那所有电器加起来不能超过这个数。吹风机电脑充电器不要同时全开。大功率设备分时段使用用完后关掉开关让线路休息。",
+          "image": "",
+          "tip": "排插摸一下如果发热烫手说明负载过重立刻减设备",
+          "duration": "日常"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "选带USB口的排插省适配器",
+          "description": "买个带USB充电口的排插手机耳机充电宝直接插USB口不用再占用插座孔插充电头。一个插座孔变成两个USB加一个插座利用率翻倍。",
+          "image": "",
+          "tip": "USB口的总输出电流不要超过排插标注的最大值",
+          "duration": "选购"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "down": {
       "meta": {
         "version": "1.0.0",
@@ -3367,6 +4372,60 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "fruitkeep": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "水果放宿舍容易坏，常温怎么短期保鲜",
+        "guideSubtitle": "报纸包裹+分开存放，水果常温多放一周"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-fruitkeep.svg",
+        "altText": "水果保鲜"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "苹果和香蕉分开存放",
+          "description": "产生乙烯的水果苹果香蕉芒果和乙烯敏感的水果奇异果草莓橙子要分开放在不同地方。乙烯催熟剂让旁边的水果加速腐烂。把苹果放桌上香蕉挂床边互不干扰。",
+          "image": "",
+          "tip": "苹果是宿舍里最大的乙烯来源一定要单独放",
+          "duration": "日常"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "报纸包裹延长保鲜",
+          "description": "柑橘类橙子柚子橘子用报纸一个个单独包好放在通风处。报纸吸潮又避光可以延长保鲜一周以上。不要用塑料袋密封塑料袋里面结水汽反而烂得快。",
+          "image": "",
+          "tip": "报纸包之前水果表面一定要完全干燥",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "葡萄草莓挑掉坏粒再存",
+          "description": "买回来的葡萄草莓先把已经软烂或长霉的颗粒挑掉不要留。一颗烂的释放的霉菌孢子在24小时内感染周围所有好水果。挑完后不要洗直接放通风处。",
+          "image": "",
+          "tip": "吃之前再洗先洗了再存放烂得飞快",
+          "duration": "每次买回来"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -4371,6 +5430,60 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "ladder": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "上下床爬梯硌脚又滑，有什么防滑防护办法",
+        "guideSubtitle": "防滑条+旧毛巾包裹，上下床安全不硌脚"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-ladder.svg",
+        "altText": "爬梯防滑"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "防滑胶带缠在梯子横杆上",
+          "description": "买一卷楼梯防滑胶带缠在每根梯子横杆的中间段。防滑胶带表面有金刚砂颗粒脚踩上去摩擦力巨大完全不滑。缠的时候用剪刀剪成合适长度缠一圈贴紧即可。",
+          "image": "",
+          "tip": "选透明或和梯子同色的胶带美观不显眼",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "旧毛巾包裹横杆",
+          "description": "没有防滑胶带的话用旧毛巾剪成条状缠在横杆上两端用胶带或绳子绑紧。毛巾增加摩擦力的同时脚踩上去软软的不硌。脏了拆下来洗洗重新绑。",
+          "image": "",
+          "tip": "毛巾选择深色耐脏的",
+          "duration": "3分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "穿防滑拖鞋上下床",
+          "description": "在宿舍备一双防滑底的浴室拖鞋专门上下床穿。光脚或穿普通拖鞋爬梯子很容易滑。浴室拖鞋鞋底有防滑花纹不打滑。",
+          "image": "",
+          "tip": "不要穿棉袜直接踩梯子袜子滑摩擦力小很危险",
+          "duration": "日常"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "leather": {
       "meta": {
         "version": "1.0.0",
@@ -5015,6 +6128,60 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "noodlesmell": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "宿舍吃泡面味道散不掉，怎么快速去味",
+        "guideSubtitle": "开窗对流+白醋碗吸味，泡面味10分钟散光"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-noodlesmell.svg",
+        "altText": "泡面去味"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "开窗加开门形成对流",
+          "description": "吃完泡面第一时间把窗户和门都打开。室内外形成对流空气通道泡面味被对流带出去。如果只有窗户门不开的话气味散得慢一倍。",
+          "image": "",
+          "tip": "对流是去味最快的方法比任何产品都管用",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "白醋小碗放角落吸味",
+          "description": "倒半碗白醋放在房间角落或桌上。白醋挥发过程中和空气中的泡面味分子。10分钟后泡面味大幅减轻半小时后完全闻不到。",
+          "image": "",
+          "tip": "受不了醋味就在白醋里滴两滴花露水",
+          "duration": "10到30分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "泡面汤立刻倒掉不要留",
+          "description": "泡面味最主要来源是吃完的泡面汤留着一屋子都是味道。吃完立刻把汤倒厕所冲掉泡面桶扔掉或洗干净。源头一除室内味道自然散得快。",
+          "image": "",
+          "tip": "泡面桶不要留在垃圾桶里味道持续散发",
+          "duration": "吃完立刻"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "orange": {
       "meta": {
         "version": "1.0.0",
@@ -5126,6 +6293,60 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "pillowyellow": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "枕头睡久发黄有汗味，不能水洗怎么清洁",
+        "guideSubtitle": "小苏打+白醋喷雾+日光浴，枕头干净除味"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-pillowyellow.svg",
+        "altText": "枕头清洁"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "小苏打干洗",
+          "description": "在枕头表面均匀撒一层小苏打用手轻轻拍打让小苏打渗入面料。静置1小时小苏打吸附枕头的汗味和油脂。然后用吸尘器带毛刷头把小苏打全部吸走。",
+          "image": "",
+          "tip": "小苏打多撒别省一枕头至少半杯",
+          "duration": "静置1小时"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "白醋水喷雾去黄",
+          "description": "白醋和水1比3混合装喷瓶里喷在枕头发黄处至微潮。白醋的酸性分解汗渍蛋白去除黄色。喷完后放在通风处自然晾干干了黄渍明显变淡。",
+          "image": "",
+          "tip": "不要喷太湿碰到枕芯海绵会很难干",
+          "duration": "晾干约2小时"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "每月一次日光浴",
+          "description": "不管有没有清洁每个月至少把枕头拿到太阳下暴晒半天。紫外线杀菌同时蒸发内部累积的水汽晒完拍一拍枕头恢复蓬松。枕套每周换洗一次。",
+          "image": "",
+          "tip": "阳光比任何清洁剂都管用",
+          "duration": "半天"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -5664,6 +6885,60 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "raindry": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "阴雨天衣服晾不干发臭，怎么快速风干",
+        "guideSubtitle": "空调/风扇对着吹+衣架间隔挂，衣服速干不臭"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-raindry.svg",
+        "altText": "速干衣服"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "风扇或空调对着衣服吹",
+          "description": "阴雨天湿度大衣服靠自然蒸发很难干。把晾衣架挪到风扇或空调出风口前对着吹。空气流动带走衣服表面水汽比静止晾干快3倍。",
+          "image": "",
+          "tip": "风扇一定要对着衣服吹不能只是房间通风",
+          "duration": "2到3小时"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "衣架间隔要大每件单独挂",
+          "description": "衣服不要挤在一起晾每件衣服之间至少留一个拳头距离。湿衣服挤在一起空气不流通中间那件永远干不了还会发臭。每件单独占一个衣架拉开距离。",
+          "image": "",
+          "tip": "衣服挂的间距越大干得越快",
+          "duration": "每次晾衣"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "洗衣服时加半杯白醋杀菌",
+          "description": "阴雨天衣服晾不干发臭是因为细菌在潮湿环境繁殖。洗衣服时在柔顺剂格里加半杯白醋。白醋杀菌除臭衣服即使晾得慢也不容易发臭。",
+          "image": "",
+          "tip": "白醋杀菌是根源性解决方案",
+          "duration": "每次洗衣服"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "ricecook": {
       "meta": {
         "version": "1.0.0",
@@ -6100,6 +7375,60 @@
         "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
       }
     },
+    "shoemold": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "鞋子堆在阳台潮湿发霉，怎么干燥除味",
+        "guideSubtitle": "报纸塞鞋+小苏打吸潮，鞋子干燥不发霉"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-shoemold.svg",
+        "altText": "鞋子干燥"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "报纸球塞满鞋子里面吸潮",
+          "description": "把旧报纸揉成紧密的球塞进鞋子里塞满塞紧。报纸把鞋子内部潮气吸出来同时撑住鞋型不变形。放在通风处第二天报纸湿透了鞋子里面干了。",
+          "image": "",
+          "tip": "报纸每天换一次直到鞋子完全干",
+          "duration": "每天更换"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "鞋底撒小苏打除臭",
+          "description": "在每双鞋的鞋底撒薄薄一层小苏打。小苏打吸潮加吸味加杀菌三合一。放一晚上第二天把鞋底的小苏打倒掉每周做一次鞋子永远不臭。",
+          "image": "",
+          "tip": "不要撒太多鞋底覆盖薄薄一层就够了",
+          "duration": "过夜"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "鞋子不要堆叠平铺摆放",
+          "description": "鞋子堆在阳台最大的问题是叠在一起的鞋底和鞋底之间完全不通风中间的鞋子永远是湿的。用鞋架或鞋盒把每双鞋分开放彼此间距至少2厘米。",
+          "image": "",
+          "tip": "平铺通风比任何干燥剂都重要",
+          "duration": "日常"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
     "shower": {
       "meta": {
         "version": "1.0.0",
@@ -6227,6 +7556,114 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "sneakerdry": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "运动鞋洗完晒变形，怎么正确晾晒",
+        "guideSubtitle": "不要暴晒+鞋内塞纸定型，运动鞋洗后不变形"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-sneakerdry.svg",
+        "altText": "运动鞋晾晒"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "鞋里塞满报纸定型",
+          "description": "洗完的运动鞋里面塞满揉成团的报纸塞到紧绷的程度。报纸把鞋子从内部撑住保持原来的鞋型同时吸走内部水分。鞋子干了以后不会变形瘪塌。",
+          "image": "",
+          "tip": "报纸要塞到鞋子鼓起来但不要撑坏鞋面",
+          "duration": "每次洗完"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "侧放或倒扣晾不要正放",
+          "description": "湿鞋子不要正着放地上晾。正放水往鞋底流积在鞋底和地面之间没法蒸发。应该把鞋子侧放或倒扣过来让鞋底朝上。水从鞋口蒸发干得快一倍。",
+          "image": "",
+          "tip": "倒扣晾鞋底朝上是运动鞋晾晒的黄金法则",
+          "duration": "日常"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "阴凉通风处晾绝不暴晒",
+          "description": "运动鞋洗完后放阴凉通风处晾干绝对不要放在大太阳下暴晒。暴晒导致橡胶底氧化变黄鞋面材料老化变脆。阴干虽然慢但鞋子寿命长得多。",
+          "image": "",
+          "tip": "通风比阳光重要一百倍",
+          "duration": "阴干1到2天"
+        }
+      ],
+      "products": [],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "sockdry": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "袜子内衣不好晾晒，怎么干净又隐私",
+        "guideSubtitle": "折叠晾衣架+室内挂绳，内衣袜子干净又隐蔽"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-sockdry.svg",
+        "altText": "内衣晾晒"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "买一个小型折叠晾衣架",
+          "description": "网上买一个多夹子折叠晾衣架十几块钱。可以夹十几双袜子和内衣占空间很小晾在床沿或桌边。不用时折叠放抽屉里不占地方。",
+          "image": "",
+          "tip": "选不锈钢夹子的塑料夹久了会老化断裂",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "室内拉一根隐形挂绳",
+          "description": "在床和墙之间或书桌下方拉一根细的晾衣绳。袜子内衣夹在绳上晾衣服挡在前面完全看不到。通风也能兼顾又不暴露隐私。",
+          "image": "",
+          "tip": "用透明钓鱼线当挂绳远看根本看不见",
+          "duration": "5分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "每次洗完用干毛巾卷吸水",
+          "description": "袜子内衣晾之前先用一条干浴巾把它们平铺在浴巾上像卷寿司一样卷起来按压。浴巾吸走大部分水分后再晾干得快一倍。",
+          "image": "",
+          "tip": "吸水步骤能让小件衣物从晾2小时缩短到1小时",
+          "duration": "每次洗完"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
@@ -7090,6 +8527,60 @@
           "badge": ""
         }
       ],
+      "purchase": {
+        "buttonText": "查看购买链接",
+        "sheetTitle": "选择购买渠道",
+        "disclaimer": "点击后将跳转至第三方购物APP的商品详情页。由于平台限制，无法自动添加购物车，请逐个打开商品在APP内下单。",
+        "taobaoLabel": "淘宝购买",
+        "pddLabel": "拼多多购买",
+        "noAppToast": "未检测到相应APP，将用浏览器打开"
+      },
+      "footer": {
+        "text": "一步到位 · 让生活更简单",
+        "disclaimer": "本页面为商品推荐。所有交易在淘宝/拼多多平台完成，与本APP无关。商品价格以平台实时价格为准。"
+      }
+    },
+    "topbunk": {
+      "meta": {
+        "version": "1.0.0",
+        "lastUpdated": "2026-05-19",
+        "guideTitle": "上铺东西容易往下掉，怎么收纳更安全",
+        "guideSubtitle": "床边挂篮+防滑垫，上铺物品安全不掉落"
+      },
+      "hero": {
+        "image": "/static/images/hero/card-topbunk.svg",
+        "altText": "上铺收纳"
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": 1,
+          "title": "床边铁杆上挂收纳篮",
+          "description": "网上买一个挂在床沿铁杆上的收纳篮十几块。手机充电器眼镜纸巾水杯全放进去。篮子在床内侧伸手就够到东西不会掉下床。",
+          "image": "",
+          "tip": "选深一点的篮子东西不容易翻出来",
+          "duration": "2分钟"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": 2,
+          "title": "铺防滑垫在床头台面上",
+          "description": "上铺床头的平台如果有的话铺一张防滑垫。眼镜手机耳机这些小物件放上去不打滑。晚上翻身碰不到掉不下去。",
+          "image": "",
+          "tip": "防滑垫剪成合适大小铺平不留翘边",
+          "duration": "1分钟"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": 3,
+          "title": "床尾栏杆挂S钩收纳",
+          "description": "床尾栏杆上挂几个S钩。书包帽子第二天要穿的衣服挂在钩上。既节省床上空间又绝对不会掉下去。S钩几毛钱一个。",
+          "image": "",
+          "tip": "重物不要挂太多栏杆承重有限",
+          "duration": "1分钟"
+        }
+      ],
+      "products": [],
       "purchase": {
         "buttonText": "查看购买链接",
         "sheetTitle": "选择购买渠道",
